@@ -1,4 +1,4 @@
-Area Code10,Area Name,All,British,Non-British
+Area Code,Area Name,All,British,Non-British
 K02000001,United Kingdom,"64,952","58,798","6,133"
 E92000001,England,"54,726","49,187","5,521"
 E12000001,North East,"2,607","2,509",98
@@ -371,9 +371,8 @@ E07000188,    Sedgemoor,120,113,7
 E07000189,    South Somerset,163,148,16
 E07000190,    Taunton Deane,111,106,5
 E07000191,    West Somerset,33,32,1
-,,,,
 W92000004,Wales,"3,076","2,942",133
-W06000001,    Isle of Anglesey / Ynys MÈn,69,68,1
+W06000001,    Isle of Anglesey / Ynys MÃˆn,69,68,1
 W06000002,    Gwynedd / Gwynedd,121,117,4
 W06000003,    Conwy / Conwy,114,110,4
 W06000004,    Denbighshire / Sir Ddinbych,94,92,2
@@ -395,6 +394,5 @@ W06000019,    Blaenau Gwent / Blaenau Gwent,69,67,1
 W06000020,    Torfaen / Tor-faen,91,89,2
 W06000021,    Monmouthshire / Sir Fynwy,91,88,3
 W06000022,    Newport / Casnewydd,147,139,8
-,,,,
 S92000003,Scotland,"5,304","4,947",355
 N92000002,Northern Ireland,"1,846","1,722",124
