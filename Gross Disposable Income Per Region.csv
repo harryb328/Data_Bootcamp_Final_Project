@@ -1,51 +1,51 @@
-Region,LAU1 code,LA name,2015
-North East,E06000047,County Durham,"8,053",
-North East,E06000005,Darlington,"1,701",
-North East,E06000001,Hartlepool,"1,329",
-North East,E06000002,Middlesbrough,"2,465",
-North East,E06000057,Northumberland,"6,111",
-North East,E06000003,Redcar and Cleveland,"1,898",
-North East,E06000004,Stockton-on-Tees,"3,350",
-North East,E08000037,Gateshead,"3,190",
-North East,E08000021,Newcastle upon Tyne,"5,621",
-North East,E08000022,North Tyneside,"2,838",
-North East,E08000023,South Tyneside,"1,734",
-North East,E08000024,Sunderland,"4,222",
-North West,E06000008,Blackburn with Darwen,"1,914",
-North West,E06000009,Blackpool,"2,145",
-North West,E06000049,Cheshire East,"7,792",
-North West,E06000050,Cheshire West and Chester,"6,611",
-North West,E06000006,Halton,"2,196",
-North West,E06000007,Warrington,"3,844",
-North West,E07000026,Allerdale,"1,605",
-North West,E07000027,Barrow-in-Furness,"1,203",
-North West,E07000028,Carlisle,"2,096",
-North West,E07000029,Copeland,"1,232",
-North West,E07000030,Eden,"1,039",
-North West,E07000031,South Lakeland,"2,195",
-North West,E08000001,Bolton,"4,763",
-North West,E08000002,Bury,"3,111",
-North West,E08000003,Manchester,"7,057",
-North West,E08000004,Oldham,"3,645",
-North West,E08000005,Rochdale,"3,254",
-North West,E08000006,Salford,"3,938",
-North West,E08000007,Stockport,"5,739",
-North West,E08000008,Tameside,"3,272",
-North West,E08000009,Trafford,"4,790",
-North West,E08000010,Wigan,"4,972",
-North West,E07000117,Burnley,"1,480",
-North West,E07000118,Chorley,"1,866",
-North West,E07000119,Fylde,"1,478",
-North West,E07000120,Hyndburn,"1,167",
-North West,E07000121,Lancaster,"2,456",
-North West,E07000122,Pendle,"1,324",
-North West,E07000123,Preston,"2,602",
-North West,E07000124,Ribble Valley,"1,138",
-North West,E07000125,Rossendale,"1,061",
-North West,E07000126,South Ribble,"1,874",
-North West,E07000127,West Lancashire,"2,162",
-North West,E07000128,Wyre,"1,605",
-North West,E08000011,Knowsley,"2,428",
+Region,LAU1 code,LA name,20151
+North East,E06000047,County Durham,"8,053"
+North East,E06000005,Darlington,"1,701"
+North East,E06000001,Hartlepool,"1,329"
+North East,E06000002,Middlesbrough,"2,465"
+North East,E06000057,Northumberland,"6,111"
+North East,E06000003,Redcar and Cleveland,"1,898"
+North East,E06000004,Stockton-on-Tees,"3,350"
+North East,E08000037,Gateshead,"3,190"
+North East,E08000021,Newcastle upon Tyne,"5,621"
+North East,E08000022,North Tyneside,"2,838"
+North East,E08000023,South Tyneside,"1,734"
+North East,E08000024,Sunderland,"4,222"
+North West,E06000008,Blackburn with Darwen,"1,914"
+North West,E06000009,Blackpool,"2,145"
+North West,E06000049,Cheshire East,"7,792"
+North West,E06000050,Cheshire West and Chester,"6,611"
+North West,E06000006,Halton,"2,196"
+North West,E06000007,Warrington,"3,844"
+North West,E07000026,Allerdale,"1,605"
+North West,E07000027,Barrow-in-Furness,"1,203"
+North West,E07000028,Carlisle,"2,096"
+North West,E07000029,Copeland,"1,232"
+North West,E07000030,Eden,"1,039"
+North West,E07000031,South Lakeland,"2,195"
+North West,E08000001,Bolton,"4,763"
+North West,E08000002,Bury,"3,111"
+North West,E08000003,Manchester,"7,057"
+North West,E08000004,Oldham,"3,645"
+North West,E08000005,Rochdale,"3,254"
+North West,E08000006,Salford,"3,938"
+North West,E08000007,Stockport,"5,739"
+North West,E08000008,Tameside,"3,272"
+North West,E08000009,Trafford,"4,790"
+North West,E08000010,Wigan,"4,972"
+North West,E07000117,Burnley,"1,480"
+North West,E07000118,Chorley,"1,866"
+North West,E07000119,Fylde,"1,478"
+North West,E07000120,Hyndburn,"1,167"
+North West,E07000121,Lancaster,"2,456"
+North West,E07000122,Pendle,"1,324"
+North West,E07000123,Preston,"2,602"
+North West,E07000124,Ribble Valley,"1,138"
+North West,E07000125,Rossendale,"1,061"
+North West,E07000126,South Ribble,"1,874"
+North West,E07000127,West Lancashire,"2,162"
+North West,E07000128,Wyre,"1,605"
+North West,E08000011,Knowsley,"2,428"
 North West,E08000012,Liverpool,"7,099"
 North West,E08000014,Sefton,"4,899"
 North West,E08000013,St. Helens,"2,553"
@@ -177,7 +177,7 @@ East of England,E07000241,Welwyn Hatfield,"2,977"
 East of England,E07000143,Breckland,"2,292"
 East of England,E07000144,Broadland,"1,935"
 East of England,E07000145,Great Yarmouth,"1,437"
-East of England,E07000146,King√çs Lynn and West Norfolk,"2,632"
+East of England,E07000146,KingÕs Lynn and West Norfolk,"2,632"
 East of England,E07000147,North Norfolk,"1,814"
 East of England,E07000148,Norwich,"2,854"
 East of England,E07000149,South Norfolk,"2,360"
