@@ -1,651 +1,657 @@
-,ONS ID,Constituency,estimate,result,leave,FIGURE TO USE,
-,E14000582,Boston and Skegness,75.6%,No,0.0%,75.6%,
-,E14001011,Walsall North,71.2%,Yes,74.2%,74.2%,
-,E14000642,Clacton,73.0%,No,0.0%,73.0%,
-,E14000933,South Basildon and East Thurrock,73.0%,No,0.0%,73.0%,
-,E14000771,Kingston upon Hull East,72.8%,No,0.0%,72.8%,
-,E14000622,Castle Point,72.7%,Yes,72.7%,72.7%,
-,E14000973,Stoke-on-Trent North,72.1%,No,0.0%,72.1%,
-,E14000669,Doncaster North,71.7%,No,0.0%,71.7%,
-,E14000717,Great Yarmouth,71.5%,Yes,71.5%,71.5%,
-,E14000716,Great Grimsby,69.2%,Yes,71.4%,71.4%,
-,E14000671,Dudley North,69.8%,Yes,71.4%,71.4%,
-,E14000974,Stoke-on-Trent South,71.1%,No,0.0%,71.1%,
-,E14000939,South Holland and The Deepings,71.1%,No,0.0%,71.1%,
-,E14000542,Barnsley East,71.0%,No,0.0%,71.0%,
-,E14000810,Mansfield,70.9%,Yes,70.9%,70.9%,
-,E14000535,Ashfield,70.5%,No,0.0%,70.5%,
-,E14000672,Dudley South,69.7%,Yes,70.4%,70.4%,
-,E14000577,Bolsover,70.4%,No,0.0%,70.4%,
-,E14000657,Dagenham and Rainham,70.3%,No,0.0%,70.3%,
-,E14001028,Wentworth and Dearne,70.3%,No,0.0%,70.3%,
-,E14000995,Thurrock,70.3%,No,0.0%,70.3%,
-,E14000733,Hartlepool,69.6%,Yes,69.6%,69.6%,
-,E14000643,Cleethorpes,69.5%,No,0.0%,69.5%,
-,E14000751,Hornchurch and Upminster,69.8%,Yes,69.5%,69.5%,
-,E14000842,North East Cambridgeshire,69.4%,No,0.0%,69.4%,
-,E14000900,Romford,67.4%,Yes,69.3%,69.3%,
-,E14000836,"Normanton, Pontefract and Castleford",70.3%,Yes,69.3%,69.3%,
-,E14000798,Louth and Horncastle,68.9%,No,0.0%,68.9%,
-,E14000618,Cannock Chase,68.9%,Yes,68.9%,68.9%,
-,E14000914,Scunthorpe,68.7%,No,0.0%,68.7%,
-,E14001030,West Bromwich West,68.7%,No,0.0%,68.7%,
-,E14000667,Don Valley,68.5%,No,0.0%,68.5%,
-,E14000904,Rotherham,68.8%,Yes,68.3%,68.3%,
-,E14000546,Bassetlaw,68.3%,No,0.0%,68.3%,
-,E14000541,Barnsley Central,68.2%,No,0.0%,68.2%,
-,E14001029,West Bromwich East,68.2%,No,0.0%,68.2%,
-,E14001050,Wolverhampton South East,67.7%,Yes,68.1%,68.1%,
-,E14000740,Hemsworth,67.4%,Yes,68.1%,68.1%,
-,E14000773,Kingston upon Hull West and Hessle,68.0%,No,0.0%,68.0%,
-,E14000573,Blackpool South,67.8%,No,0.0%,67.8%,
-,E14000531,Aldridge-Brownhills,68.7%,Yes,67.8%,67.8%,
-,E14000854,North Warwickshire,67.8%,No,0.0%,67.8%,
-,E14000729,Harlow,67.7%,No,0.0%,67.7%,
-,E14001049,Wolverhampton North East,67.5%,Yes,67.7%,67.7%,
-,E14000891,Redcar,67.7%,No,0.0%,67.7%,
-,E14000888,Rayleigh and Wickford,67.7%,No,0.0%,67.7%,
-,E14000544,Basildon and Billericay,67.1%,No,0.0%,67.1%,
-,E14000572,Blackpool North and Cleveleys,66.9%,No,0.0%,66.9%,
-,E14000903,Rother Valley,66.5%,Yes,66.7%,66.7%,
-,E14000668,Doncaster Central,66.7%,No,0.0%,66.7%,
-,E14000952,South West Norfolk,66.7%,No,0.0%,66.7%,
-,E14000609,Burnley,66.6%,Yes,66.6%,66.6%,
-,E14000722,Halesowen and Rowley Regis,66.6%,No,0.0%,66.6%,
-,E14000879,"Plymouth, Moor View",68.5%,Yes,66.4%,66.4%,
-,E14000970,Stockton North,66.3%,No,0.0%,66.3%,
-,E14000920,Sheffield South East,66.3%,No,0.0%,66.3%,
-,E14000596,Brigg and Goole,66.2%,No,0.0%,66.2%,
-,E14000989,Telford,66.2%,No,0.0%,66.2%,
-,E14000819,Middlesbrough,64.5%,Yes,66.1%,66.1%,
-,E14000986,Tamworth,66.0%,No,0.0%,66.0%,
-,E14000677,Easington,66.0%,No,0.0%,66.0%,
-,E14000758,Hyndburn,65.8%,No,0.0%,65.8%,
-,E14000859,North West Norfolk,65.8%,No,0.0%,65.8%,
-,E14000606,Broxbourne,65.5%,No,0.0%,65.5%,
-,E14000715,Gravesham,65.4%,Yes,65.4%,65.4%,
-,E14000927,Sittingbourne and Sheppey,65.4%,No,0.0%,65.4%,
-,E14000533,Amber Valley,65.3%,No,0.0%,65.3%,
-,E14000820,Middlesbrough South and East Cleveland,65.3%,No,0.0%,65.3%,
-,E14000558,Bexleyheath and Crayford,65.3%,No,0.0%,65.3%,
-,E14000945,South Staffordshire,65.5%,Yes,65.2%,65.2%,
-,E14000852,North Thanet,65.2%,No,0.0%,65.2%,
-,E14000805,Makerfield,64.9%,No,0.0%,64.9%,
-,E14000972,Stoke-on-Trent Central,64.8%,No,0.0%,64.8%,
-,E14000610,Burton,64.8%,No,0.0%,64.8%,
-,E14000576,Bognor Regis and Littlehampton,64.8%,No,0.0%,64.8%,
-,E14000966,Staffordshire Moorlands,64.7%,No,0.0%,64.7%,
-,E14000868,Nuneaton,64.5%,No,0.0%,64.5%,
-,E14000961,St Austell and Newquay,64.1%,No,0.0%,64.1%,
-,E14000659,Dartford,64.0%,No,0.0%,64.0%,
-,E14000626,Chatham and Aylesford,63.9%,No,0.0%,63.9%,
-,E14000866,Nottingham North,63.3%,Yes,63.8%,63.8%,
-,E14000883,Portsmouth North,65.2%,Yes,63.7%,63.7%,
-,E14000898,Rochester and Strood,63.4%,Yes,63.7%,63.7%,
-,E14000976,Stourbridge,64.7%,Yes,63.7%,63.7%,
-,E14000683,East Yorkshire,63.7%,No,0.0%,63.7%,
-,E14000924,Sherwood,63.7%,No,0.0%,63.7%,
-,E14000711,Gillingham and Rainham,64.2%,Yes,63.6%,63.6%,
-,E14000588,Bradford South,63.6%,Yes,63.6%,63.6%,
-,E14001022,Waveney,63.4%,No,0.0%,63.4%,
-,E14000785,Leigh,63.3%,No,0.0%,63.3%,
-,E14001034,West Suffolk,63.2%,No,0.0%,63.2%,
-,E14000695,Erewash,63.2%,No,0.0%,63.2%,
-,E14000875,Pendle,63.2%,Yes,63.2%,63.2%,
-,E14001058,Wyre Forest,63.1%,Yes,63.1%,63.1%,
-,E14000579,Bolton South East,63.0%,No,0.0%,63.0%,
-,E14001025,Wellingborough,63.0%,No,0.0%,63.0%,
-,E14000670,Dover,63.0%,No,0.0%,63.0%,
-,E14000561,"Birmingham, Erdington",58.5%,Yes,63.0%,63.0%,
-,E14001039,Wigan,63.0%,No,0.0%,63.0%,
-,E14001009,Wakefield,62.6%,Yes,62.8%,62.8%,
-,E14000878,Peterborough,62.7%,No,0.0%,62.7%,
-,E14000736,Havant,62.6%,No,0.0%,62.6%,
-,E14000999,Torbay,62.5%,No,0.0%,62.5%,
-,E14000754,Houghton and Sunderland South,64.5%,Yes,62.4%,62.4%,
-,E14000869,Old Bexley and Sidcup,62.4%,No,0.0%,62.4%,
-,E14000747,Heywood and Middleton,62.0%,Yes,62.4%,62.4%,
-,N06000012,North Antrim,62.2%,Yes,62.2%,62.2%,
-,E14000595,Bridgwater and West Somerset,62.1%,No,0.0%,62.1%,
-,E14000944,South Shields,62.7%,Yes,62.1%,62.1%,
-,E14000843,North East Derbyshire,62.1%,No,0.0%,62.1%,
-,W07000072,Blaenau Gwent,62.0%,Yes,62.0%,62.0%,
-,E14000707,Gainsborough,62.0%,No,0.0%,62.0%,
-,E14000762,Isle of Wight,61.9%,Yes,61.9%,61.9%,
-,E14001020,Washington and Sunderland West,64.5%,Yes,61.9%,61.9%,
-,E14000713,Gosport,61.8%,No,0.0%,61.8%,
-,E14000537,Ashton-under-Lyne,63.4%,Yes,61.8%,61.8%,
-,E14000565,"Birmingham, Northfield",59.3%,Yes,61.8%,61.8%,
-,W07000048,Swansea East,61.8%,No,0.0%,61.8%,
-,E14000765,Jarrow,61.8%,No,0.0%,61.8%,
-,E14000948,South Thanet,61.7%,No,0.0%,61.7%,
-,E14000834,Newcastle-under-Lyme,61.6%,No,0.0%,61.6%,
-,E14000704,Folkestone and Hythe,61.6%,No,0.0%,61.6%,
-,E14001012,Walsall South,63.4%,Yes,61.6%,61.6%,
-,E14001016,Warley,61.6%,No,0.0%,61.6%,
-,E14000929,Sleaford and North Hykeham,61.6%,No,0.0%,61.6%,
-,E14000590,Braintree,61.5%,No,0.0%,61.5%,
-,E14000778,Leeds East,61.4%,No,0.0%,61.4%,
-,E14000663,Derby South,61.4%,No,0.0%,61.4%,
-,E14000913,Scarborough and Whitby,61.3%,No,0.0%,61.3%,
-,E14000871,Oldham West and Royton,62.3%,Yes,61.3%,61.3%,
-,E14000594,Brentwood and Ongar,61.2%,No,0.0%,61.2%,
-,E14000693,Epping Forest,61.0%,No,0.0%,61.0%,
-,E14001053,Workington,61.0%,No,0.0%,61.0%,
-,E14000714,Grantham and Stamford,61.0%,No,0.0%,61.0%,
-,E14000892,Redditch,61.0%,No,0.0%,61.0%,
-,E14000769,Kettering,61.0%,Yes,61.0%,61.0%,
-,E14000661,Denton and Reddish,61.4%,Yes,61.0%,61.0%,
-,E14000806,Maldon,61.0%,No,0.0%,61.0%,
-,E14000899,Rochford and Southend East,60.9%,No,0.0%,60.9%,
-,E14000569,Bishop Auckland,60.9%,No,0.0%,60.9%,
-,E14000583,Bosworth,60.8%,No,0.0%,60.8%,
-,W07000053,Torfaen,60.8%,No,0.0%,60.8%,
-,E14000858,North West Leicestershire,60.7%,Yes,60.7%,60.7%,
-,E14000876,Penistone and Stocksbridge,60.7%,No,0.0%,60.7%,
-,E14000620,Carlisle,60.6%,No,0.0%,60.6%,
-,E14000816,Mid Norfolk,60.6%,No,0.0%,60.6%,
-,E14000575,Blyth Valley,60.5%,No,0.0%,60.5%,
-,E14001045,Witham,60.5%,No,0.0%,60.5%,
-,W07000052,Rhondda,60.4%,No,0.0%,60.4%,
-,E14000743,Hereford and South Herefordshire,60.4%,No,0.0%,60.4%,
-,E14000935,South Derbyshire,60.4%,Yes,60.4%,60.4%,
-,E14000840,North Durham,60.3%,No,0.0%,60.3%,
-,E14000959,Spelthorne,60.3%,Yes,60.3%,60.3%,
-,E14000955,"Southampton, Itchen",60.3%,No,0.0%,60.3%,
-,E14000653,Crewe and Nantwich,60.3%,No,0.0%,60.3%,
-,E14000861,Northampton North,60.3%,No,0.0%,60.3%,
-,E14000837,North Cornwall,60.2%,No,0.0%,60.2%,
-,E14000827,New Forest East,60.2%,No,0.0%,60.2%,
-,E14000648,Corby,60.1%,No,0.0%,60.1%,
-,W07000049,Aberavon,60.1%,No,0.0%,60.1%,
-,E14000568,"Birmingham, Yardley",60.6%,Yes,60.1%,60.1%,
-,E14000540,Barking,60.0%,No,0.0%,60.0%,
-,E14000921,"Sheffield, Brightside and Hillsborough",60.0%,No,0.0%,60.0%,
-,E14000638,Christchurch,60.0%,No,0.0%,60.0%,
-,E14000982,Sunderland Central,55.4%,Yes,59.9%,59.9%,
-,E14000870,Oldham East and Saddleworth,57.9%,Yes,59.9%,59.9%,
-,W07000062,Clwyd South,59.9%,No,0.0%,59.9%,
-,E14001060,Yeovil,59.9%,No,0.0%,59.9%,
-,E14000536,Ashford,59.9%,No,0.0%,59.9%,
-,E14000849,North Shropshire,59.8%,No,0.0%,59.8%,
-,E14000826,Morley and Outwood,59.8%,No,0.0%,59.8%,
-,E14001054,Worsley and Eccles South,62.2%,Yes,59.8%,59.8%,
-,E14000772,Kingston upon Hull North,59.8%,No,0.0%,59.8%,
-,E14000548,Batley and Spen,59.6%,No,0.0%,59.6%,
-,E14000853,North Tyneside,59.5%,No,0.0%,59.5%,
-,E14000936,South Dorset,59.4%,No,0.0%,59.4%,
-,E14000915,Sedgefield,59.4%,No,0.0%,59.4%,
-,E14000818,Mid Worcestershire,59.4%,No,0.0%,59.4%,
-,W07000055,Newport East,59.3%,No,0.0%,59.3%,
-,E14000992,The Wrekin,59.3%,No,0.0%,59.3%,
-,E14000632,Chesterfield,59.3%,No,0.0%,59.3%,
-,E14000967,Stalybridge and Hyde,58.5%,Yes,59.3%,59.3%,
-,E14000647,Copeland,59.2%,No,0.0%,59.2%,
-,E14000800,Luton North,59.2%,No,0.0%,59.2%,
-,E14000734,Harwich and North Essex,59.0%,No,0.0%,59.0%,
-,E14000862,Northampton South,59.0%,No,0.0%,59.0%,
-,W07000077,Islwyn,58.9%,No,0.0%,58.9%,
-,E14000902,Rossendale and Darwen,58.9%,No,0.0%,58.9%,
-,W07000074,Ogmore,58.9%,No,0.0%,58.9%,
-,E14000723,Halifax,60.7%,Yes,58.8%,58.8%,
-,E14000712,Gloucester,58.8%,No,0.0%,58.8%,
-,E14000812,Meriden,58.1%,Yes,58.8%,58.8%,
-,E14000556,Beverley and Holderness,58.7%,No,0.0%,58.7%,
-,E14000894,Ribble Valley,58.7%,No,0.0%,58.7%,
-,E14000700,Faversham and Mid Kent,58.7%,No,0.0%,58.7%,
-,E14000905,Rugby,58.6%,No,0.0%,58.6%,
-,E14000660,Daventry,58.6%,No,0.0%,58.6%,
-,E14000652,Crawley,58.4%,Yes,58.4%,58.4%,
-,E14000616,Camborne and Redruth,58.4%,No,0.0%,58.4%,
-,E14000848,North Norfolk,58.4%,No,0.0%,58.4%,
-,E14000962,St Helens North,58.4%,No,0.0%,58.4%,
-,E14000650,Coventry North West,58.4%,No,0.0%,58.4%,
-,W07000071,Merthyr Tydfil and Rhymney,58.4%,No,0.0%,58.4%,
-,E14000688,Ellesmere Port and Neston,58.3%,No,0.0%,58.3%,
-,E14000737,Hayes and Harlington,58.2%,No,0.0%,58.2%,
-,E14000825,Morecambe and Lunesdale,58.2%,No,0.0%,58.2%,
-,E14000940,South Leicestershire,58.1%,No,0.0%,58.1%,
-,E14000578,Bolton North East,58.1%,No,0.0%,58.1%,
-,E14000658,Darlington,58.1%,No,0.0%,58.1%,
-,E14000949,South West Bedfordshire,58.1%,No,0.0%,58.1%,
-,E14001017,Warrington North,58.1%,No,0.0%,58.1%,
-,W07000043,Alyn and Deeside,58.1%,No,0.0%,58.1%,
-,E14000847,North Herefordshire,58.0%,No,0.0%,58.0%,
-,E14000530,Aldershot,58.1%,Yes,57.9%,57.9%,
-,E14000705,Forest of Dean,57.9%,No,0.0%,57.9%,
-,E14000799,Ludlow,57.9%,No,0.0%,57.9%,
-,E14000625,Charnwood,57.9%,No,0.0%,57.9%,
-,E14000996,Tiverton and Honiton,57.8%,No,0.0%,57.8%,
-,E14000649,Coventry North East,57.8%,No,0.0%,57.8%,
-,E14000971,Stockton South,57.8%,No,0.0%,57.8%,
-,E14000585,Bournemouth West,57.7%,No,0.0%,57.7%,
-,E14000557,Bexhill and Battle,57.7%,No,0.0%,57.7%,
-,E14000725,Halton,57.7%,No,0.0%,57.7%,
-,E14000917,Selby and Ainsty,57.7%,No,0.0%,57.7%,
-,W07000044,Wrexham,57.6%,No,0.0%,57.6%,
-,E14000684,Eastbourne,57.5%,No,0.0%,57.5%,
-,E14000872,Orpington,56.2%,Yes,57.5%,57.5%,
-,E14000975,Stone,57.5%,No,0.0%,57.5%,
-,E14000791,Lichfield,57.5%,No,0.0%,57.5%,
-,E14000965,Stafford,57.5%,No,0.0%,57.5%,
-,E14000897,Rochdale,57.9%,Yes,57.5%,57.5%,
-,E14000792,Lincoln,57.4%,No,0.0%,57.4%,
-,E14000881,Poole,57.4%,No,0.0%,57.4%,
-,E14000851,North Swindon,57.3%,No,0.0%,57.3%,
-,E14000543,Barrow and Furness,57.3%,No,0.0%,57.3%,
-,E14001038,Weston-Super-Mare,57.2%,No,0.0%,57.2%,
-,E14001000,Torridge and West Devon,57.2%,No,0.0%,57.2%,
-,E14001007,Uxbridge and South Ruislip,57.2%,No,0.0%,57.2%,
-,E14000923,"Sheffield, Heeley",57.2%,No,0.0%,57.2%,
-,E14000666,Dewsbury,57.1%,No,0.0%,57.1%,
-,E14000774,Kingswood,57.1%,No,0.0%,57.1%,
-,E14000815,Mid Dorset and North Poole,57.1%,No,0.0%,57.1%,
-,E14000838,North Devon,57.0%,Yes,57.0%,57.0%,
-,E14000968,Stevenage,57.0%,No,0.0%,57.0%,
-,E14000855,North West Cambridgeshire,56.9%,No,0.0%,56.9%,
-,E14000954,South West Wiltshire,56.9%,No,0.0%,56.9%,
-,E14000833,Newcastle upon Tyne North,56.8%,No,0.0%,56.8%,
-,E14000689,Elmet and Rothwell,56.8%,No,0.0%,56.8%,
-,E14000637,Chorley,56.7%,No,0.0%,56.7%,
-,W07000070,Cynon Valley,56.7%,No,0.0%,56.7%,
-,E14000706,Fylde,56.7%,No,0.0%,56.7%,
-,E14000863,Norwich North,56.7%,No,0.0%,56.7%,
-,W07000045,Llanelli,56.7%,No,0.0%,56.7%,
-,E14000943,South Ribble,56.6%,No,0.0%,56.6%,
-,E14000839,North Dorset,56.6%,No,0.0%,56.6%,
-,W07000060,Vale of Clwyd,56.6%,No,0.0%,56.6%,
-,E14000761,Ipswich,56.5%,No,0.0%,56.5%,
-,E14000993,Thirsk and Malton,56.4%,No,0.0%,56.4%,
-,E14000710,Gedling,56.3%,No,0.0%,56.3%,
-,E14001014,Wansbeck,56.3%,No,0.0%,56.3%,
-,E14000621,Carshalton and Wallington,56.3%,No,0.0%,56.3%,
-,E14000709,Gateshead,56.2%,No,0.0%,56.2%,
-,E14000574,Blaydon,56.1%,No,0.0%,56.1%,
-,E14000963,St Helens South and Whiston,56.1%,No,0.0%,56.1%,
-,E14001055,Worthing West,56.0%,No,0.0%,56.0%,
-,E14000835,Newton Abbot,56.0%,No,0.0%,56.0%,
-,E14000735,Hastings and Rye,55.9%,No,0.0%,55.9%,
-,E14000701,Feltham and Heston,58.3%,Yes,55.9%,55.9%,
-,E14000804,Maidstone and The Weald,55.9%,No,0.0%,55.9%,
-,W07000063,Montgomeryshire,55.8%,No,0.0%,55.8%,
-,E14000829,Newark,55.7%,No,0.0%,55.7%,
-,E14000885,Preston,55.7%,No,0.0%,55.7%,
-,E14000580,Bolton West,55.6%,No,0.0%,55.6%,
-,N06000016,Strangford,55.5%,Yes,55.5%,55.5%,
-,E14000699,Fareham,55.5%,No,0.0%,55.5%,
-,E14000739,Hemel Hempstead,55.5%,No,0.0%,55.5%,
-,E14000605,Bromsgrove,55.4%,Yes,55.4%,55.4%,
-,W07000065,Preseli Pembrokeshire,55.3%,No,0.0%,55.3%,
-,E14000554,Berwick-upon-Tweed,55.3%,No,0.0%,55.3%,
-,E14000828,New Forest West,55.3%,No,0.0%,55.3%,
-,E14000724,Haltemprice and Howden,55.2%,No,0.0%,55.2%,
-,E14000981,Suffolk Coastal,55.2%,No,0.0%,55.2%,
-,E14000877,Penrith and The Border,55.2%,No,0.0%,55.2%,
-,N06000005,East Antrim,55.2%,Yes,55.2%,55.2%,
-,W07000066,Carmarthen West and South Pembrokeshire,55.2%,No,0.0%,55.2%,
-,E14000587,Bradford East,55.6%,Yes,55.2%,55.2%,
-,W07000076,Caerphilly,55.1%,No,0.0%,55.1%,
-,E14000938,South East Cornwall,55.1%,No,0.0%,55.1%,
-,E14000950,South West Devon,55.1%,No,0.0%,55.1%,
-,E14000957,Southend West,57.0%,Yes,55.1%,55.1%,
-,E14000856,North West Durham,55.0%,No,0.0%,55.0%,
-,E14001033,West Lancashire,55.0%,No,0.0%,55.0%,
-,E14000624,Central Suffolk and North Ipswich,54.9%,No,0.0%,54.9%,
-,E14000581,Bootle,54.8%,No,0.0%,54.8%,
-,E14000964,St Ives,54.8%,No,0.0%,54.8%,
-,E14000857,North West Hampshire,54.8%,No,0.0%,54.8%,
-,E14000895,Richmond (Yorks),54.7%,No,0.0%,54.7%,
-,E14000696,Erith and Thamesmead,54.6%,No,0.0%,54.6%,
-,E14000801,Luton South,54.6%,No,0.0%,54.6%,
-,E14000612,Bury South,54.5%,No,0.0%,54.5%,
-,W07000042,Delyn,54.4%,No,0.0%,54.4%,
-,E14000880,"Plymouth, Sutton and Devonport",51.4%,Yes,54.4%,54.4%,
-,E14001051,Wolverhampton South West,54.4%,Yes,54.4%,54.4%,
-,E14000685,Eastleigh,54.3%,No,0.0%,54.3%,
-,E14000662,Derby North,54.3%,No,0.0%,54.3%,
-,E14000681,East Surrey,54.2%,No,0.0%,54.2%,
-,E14001057,Wyre and Preston North,54.2%,No,0.0%,54.2%,
-,E14000603,Broadland,54.1%,No,0.0%,54.1%,
-,E14000782,Leicester East,54.1%,No,0.0%,54.1%,
-,E14000930,Slough,54.1%,No,0.0%,54.1%,
-,E14000918,Sevenoaks,54.0%,No,0.0%,54.0%,
-,E14000946,South Suffolk,54.0%,No,0.0%,54.0%,
-,W07000069,Neath,54.0%,No,0.0%,54.0%,
-,E14000613,Bury St Edmunds,54.0%,No,0.0%,54.0%,
-,E14001001,Totnes,53.9%,No,0.0%,53.9%,
-,E14000909,Rutland and Melton,53.9%,No,0.0%,53.9%,
-,E14000570,Blackburn,55.9%,Yes,53.7%,53.7%,
-,E14000584,Bournemouth East,53.7%,No,0.0%,53.7%,
-,E14000682,East Worthing and Shoreham,53.7%,No,0.0%,53.7%,
-,E14001052,Worcester,53.7%,Yes,53.7%,53.7%,
-,E14000611,Bury North,53.7%,No,0.0%,53.7%,
-,W07000056,Newport West,53.7%,No,0.0%,53.7%,
-,E14000990,Tewkesbury,53.6%,No,0.0%,53.6%,
-,E14001026,Wells,53.6%,No,0.0%,53.6%,
-,E14000545,Basingstoke,53.6%,No,0.0%,53.6%,
-,S14000007,Banff and Buchan,53.6%,No,0.0%,53.6%,
-,E14000911,Salford and Eccles,52.8%,Yes,53.6%,53.6%,
-,E14000665,Devizes,53.5%,No,0.0%,53.5%,
-,E14000757,Huntingdon,53.5%,No,0.0%,53.5%,
-,E14000841,North East Bedfordshire,53.4%,No,0.0%,53.4%,
-,E14000931,Solihull,54.2%,Yes,53.3%,53.3%,
-,E14000942,South Northamptonshire,53.3%,No,0.0%,53.3%,
-,E14000766,Keighley,55.6%,Yes,53.3%,53.3%,
-,E14000759,Ilford North,53.3%,No,0.0%,53.3%,
-,E14000781,Leeds West,53.3%,No,0.0%,53.3%,
-,E14000586,Bracknell,53.2%,No,0.0%,53.2%,
-,W07000067,Carmarthen East and Dinefwr,53.2%,No,0.0%,53.2%,
-,E14000928,Skipton and Ripon,53.2%,No,0.0%,53.2%,
-,E14000614,Calder Valley,51.5%,Yes,53.2%,53.2%,
-,N06000009,Lagan Valley,53.1%,Yes,53.1%,53.1%,
-,E14000822,Milton Keynes South,53.1%,No,0.0%,53.1%,
-,W07000059,Clwyd West,53.0%,No,0.0%,53.0%,
-,E14000988,Taunton Deane,52.9%,Yes,52.9%,52.9%,
-,E14000926,Shrewsbury and Atcham,52.9%,No,0.0%,52.9%,
-,E14000813,Mid Bedfordshire,52.9%,No,0.0%,52.9%,
-,E14000997,Tonbridge and Malling,52.9%,No,0.0%,52.9%,
-,E14001027,Welwyn Hatfield,52.8%,No,0.0%,52.8%,
-,E14001023,Wealden,52.8%,No,0.0%,52.8%,
-,N06000017,Upper Bann,52.6%,Yes,52.6%,52.6%,
-,E14000646,Congleton,52.6%,No,0.0%,52.6%,
-,W07000078,Vale of Glamorgan,52.6%,No,0.0%,52.6%,
-,E14001035,West Worcestershire,52.5%,No,0.0%,52.5%,
-,E14000607,Broxtowe,52.5%,No,0.0%,52.5%,
-,E14000814,Mid Derbyshire,52.5%,No,0.0%,52.5%,
-,E14000728,Harborough,52.4%,No,0.0%,52.4%,
-,E14000775,Knowsley,52.3%,No,0.0%,52.3%,
-,E14000925,Shipley,49.7%,Yes,52.2%,52.2%,
-,E14000738,Hazel Grove,51.7%,Yes,52.2%,52.2%,
-,W07000058,Aberconwy,52.2%,No,0.0%,52.2%,
-,E14000994,Thornbury and Yate,52.2%,No,0.0%,52.2%,
-,E14000794,"Liverpool, Walton",52.2%,No,0.0%,52.2%,
-,E14000686,Eddisbury,52.2%,No,0.0%,52.2%,
-,E14000776,Lancaster and Fleetwood,52.0%,No,0.0%,52.0%,
-,E14000552,Bedford,53.4%,Yes,51.9%,51.9%,
-,N06000001,Belfast East,51.9%,Yes,51.9%,51.9%,
-,E14000811,Meon Valley,51.9%,No,0.0%,51.9%,
-,W07000068,Brecon and Radnorshire,51.9%,No,0.0%,51.9%,
-,E14000983,Surrey Heath,51.9%,No,0.0%,51.9%,
-,E14000756,Huddersfield,51.9%,No,0.0%,51.9%,
-,E14000690,Eltham,52.4%,Yes,51.8%,51.8%,
-,E14000538,Aylesbury,51.8%,No,0.0%,51.8%,
-,E14000884,Portsmouth South,49.7%,Yes,51.8%,51.8%,
-,E14000559,Birkenhead,52.7%,Yes,51.7%,51.7%,
-,E14000985,Sutton Coldfield,48.4%,Yes,51.7%,51.7%,
-,E14000947,South Swindon,51.7%,No,0.0%,51.7%,
-,E14000846,North East Somerset,51.6%,No,0.0%,51.6%,
-,E14000635,Chippenham,51.6%,No,0.0%,51.6%,
-,E14000644,Colchester,51.5%,No,0.0%,51.5%,
-,E14000890,Reading West,51.5%,No,0.0%,51.5%,
-,E14000563,"Birmingham, Hodge Hill",50.8%,Yes,51.5%,51.5%,
-,E14000845,North East Hertfordshire,51.4%,No,0.0%,51.4%,
-,S14000009,"Caithness, Sutherland and Easter Ross",51.3%,No,0.0%,51.3%,
-,E14000984,Sutton and Cheam,51.3%,No,0.0%,51.3%,
-,E14000910,Saffron Walden,51.2%,No,0.0%,51.2%,
-,E14000664,Derbyshire Dales,51.2%,No,0.0%,51.2%,
-,E14000566,"Birmingham, Perry Barr",54.2%,Yes,51.2%,51.2%,
-,E14001021,Watford,51.2%,No,0.0%,51.2%,
-,E14001018,Warrington South,51.1%,No,0.0%,51.1%,
-,E14001031,West Dorset,51.0%,No,0.0%,51.0%,
-,E14000977,Stratford-on-Avon,51.0%,No,0.0%,51.0%,
-,W07000041,Ynys Mon,50.9%,Yes,50.9%,50.9%,
-,E14000623,Central Devon,50.9%,No,0.0%,50.9%,
-,E14000941,South Norfolk,50.9%,No,0.0%,50.9%,
-,E14000745,Hertsmere,50.8%,Yes,50.8%,50.8%,
-,E14000784,Leicester West,50.8%,No,0.0%,50.8%,
-,E14000633,Chichester,50.7%,No,0.0%,50.7%,
-,E14000628,Chelmsford,50.7%,No,0.0%,50.7%,
-,E14001024,Weaver Vale,50.6%,No,0.0%,50.6%,
-,E14000748,High Peak,50.5%,Yes,50.5%,50.5%,
-,E14000678,East Devon,50.4%,No,0.0%,50.4%,
-,E14000651,Coventry South,50.4%,No,0.0%,50.4%,
-,E14000539,Banbury,50.3%,No,0.0%,50.3%,
-,E14000932,Somerton and Frome,50.3%,No,0.0%,50.3%,
-,E14000654,Croydon Central,48.7%,Yes,50.3%,50.3%,
-,E14000860,North Wiltshire,50.3%,No,0.0%,50.3%,
-,W07000073,Bridgend,50.3%,No,0.0%,50.3%,
-,E14000797,Loughborough,50.1%,No,0.0%,50.1%,
-,E14000645,Colne Valley,50.1%,No,0.0%,50.1%,
-,E14000571,Blackley and Broughton,50.0%,No,0.0%,50.0%,
-,E14001010,Wallasey,52.5%,Yes,49.9%,49.9%,
-,E14000912,Salisbury,49.9%,No,0.0%,49.9%,
-,E14000634,Chingford and Woodford Green,49.9%,No,0.0%,49.9%,
-,S14000046,Moray,49.9%,Yes,49.9%,49.9%,
-,E14000907,Runnymede and Weybridge,49.8%,No,0.0%,49.8%,
-,E14000604,Bromley and Chislehurst,49.7%,Yes,49.8%,49.8%,
-,E14000796,"Liverpool, West Derby",49.8%,No,0.0%,49.8%,
-,E14000534,Arundel and South Downs,49.7%,No,0.0%,49.7%,
-,E14000821,Milton Keynes North,49.7%,No,0.0%,49.7%,
-,E14001059,Wythenshawe and Sale East,49.6%,No,0.0%,49.6%,
-,N06000002,Belfast North,49.6%,Yes,49.6%,49.6%,
-,E14000906,"Ruislip, Northwood and Pinner",49.5%,No,0.0%,49.5%,
-,E14000753,Horsham,49.5%,No,0.0%,49.5%,
-,E14000956,"Southampton, Test",49.4%,No,0.0%,49.4%,
-,W07000046,Gower,49.3%,No,0.0%,49.3%,
-,E14000680,East Hampshire,49.3%,No,0.0%,49.3%,
-,E14000744,Hertford and Stortford,49.2%,No,0.0%,49.2%,
-,E14000691,Enfield North,47.9%,Yes,49.2%,49.2%,
-,E14000550,Beaconsfield,49.0%,No,0.0%,49.0%,
-,E14000979,Stretford and Urmston,48.9%,No,0.0%,48.9%,
-,E14000608,Buckingham,48.9%,No,0.0%,48.9%,
-,E14000702,Filton and Bradley Stoke,48.8%,No,0.0%,48.8%,
-,E14000886,Pudsey,48.6%,No,0.0%,48.6%,
-,E14001056,Wycombe,48.5%,No,0.0%,48.5%,
-,S14000004,Angus,48.2%,No,0.0%,48.2%,
-,W07000054,Monmouth,48.1%,No,0.0%,48.1%,
-,E14000831,Newcastle upon Tyne Central,48.0%,No,0.0%,48.0%,
-,E14000893,Reigate,48.0%,No,0.0%,48.0%,
-,N06000006,East Londonderry,48.0%,Yes,48.0%,48.0%,
-,E14001032,West Ham,48.0%,No,0.0%,48.0%,
-,E14000708,Garston and Halewood,48.0%,No,0.0%,48.0%,
-,E14000991,The Cotswolds,47.9%,No,0.0%,47.9%,
-,E14000830,Newbury,47.8%,No,0.0%,47.8%,
-,E14000694,Epsom and Ewell,47.8%,No,0.0%,47.8%,
-,N06000013,North Down,47.6%,Yes,47.6%,47.6%,
-,E14001006,Tynemouth,47.6%,No,0.0%,47.6%,
-,S14000036,Glenrothes,47.6%,No,0.0%,47.6%,
-,E14000850,North Somerset,47.6%,No,0.0%,47.6%,
-,E14000731,Harrow East,49.7%,Yes,47.5%,47.5%,
-,W07000061,Dwyfor Meirionnydd,47.4%,No,0.0%,47.4%,
-,E14000824,Mole Valley,47.3%,No,0.0%,47.3%,
-,E14000560,"Birmingham, Edgbaston",43.8%,Yes,47.3%,47.3%,
-,E14000802,Macclesfield,47.2%,No,0.0%,47.2%,
-,E14000730,Harrogate and Knaresborough,47.2%,No,0.0%,47.2%,
-,E14000786,Lewes,47.1%,No,0.0%,47.1%,
-,E14000601,Bristol South,47.3%,Yes,47.1%,47.1%,
-,E14001037,Westmorland and Lonsdale,47.1%,No,0.0%,47.1%,
-,E14000567,"Birmingham, Selly Oak",45.7%,Yes,46.9%,46.9%,
-,E14000599,Bristol East,48.7%,Yes,46.8%,46.8%,
-,E14000969,Stockport,47.9%,Yes,46.8%,46.8%,
-,E14000589,Bradford West,46.4%,Yes,46.7%,46.7%,
-,E14001042,Windsor,46.7%,No,0.0%,46.7%,
-,E14000551,Beckenham,46.6%,No,0.0%,46.6%,
-,E14001043,Wirral South,45.5%,Yes,46.5%,46.5%,
-,W07000075,Pontypridd,46.5%,No,0.0%,46.5%,
-,E14000867,Nottingham South,45.6%,Yes,46.5%,46.5%,
-,E14001015,Wantage,46.5%,No,0.0%,46.5%,
-,E14000817,Mid Sussex,46.4%,No,0.0%,46.4%,
-,E14001046,Witney,46.3%,Yes,46.3%,46.3%,
-,E14000958,Southport,46.3%,No,0.0%,46.3%,
-,E14000679,East Ham,46.3%,No,0.0%,46.3%,
-,E14000675,Ealing North,48.6%,Yes,46.3%,46.3%,
-,E14000767,Kenilworth and Southam,46.2%,No,0.0%,46.2%,
-,E14000951,South West Hertfordshire,46.2%,No,0.0%,46.2%,
-,E14000844,North East Hampshire,46.2%,No,0.0%,46.2%,
-,E14000901,Romsey and Southampton North,46.1%,No,0.0%,46.1%,
-,E14000777,Leeds Central,46.0%,No,0.0%,46.0%,
-,E14000980,Stroud,45.9%,No,0.0%,45.9%,
-,E14001003,Truro and Falmouth,45.9%,No,0.0%,45.9%,
-,E14000656,Croydon South,45.3%,Yes,45.8%,45.8%,
-,E14000987,Tatton,45.6%,No,0.0%,45.6%,
-,E14000687,Edmonton,47.4%,Yes,45.5%,45.5%,
-,W07000064,Ceredigion,45.4%,Yes,45.4%,45.4%,
-,E14000746,Hexham,45.3%,No,0.0%,45.3%,
-,E14000619,Canterbury,45.3%,No,0.0%,45.3%,
-,E14000937,South East Cambridgeshire,45.3%,No,0.0%,45.3%,
-,S14000013,Dumfries and Galloway,45.1%,No,0.0%,45.1%,
-,E14000732,Harrow West,41.9%,Yes,45.1%,45.1%,
-,E14000803,Maidenhead,45.0%,No,0.0%,45.0%,
-,E14000631,Chesham and Amersham,45.0%,Yes,45.0%,45.0%,
-,E14000698,Exeter,44.8%,No,0.0%,44.8%,
-,S14000027,Na h-Eileanan an Iar,44.8%,Yes,44.8%,44.8%,
-,E14001044,Wirral West,42.6%,Yes,44.7%,44.7%,
-,E14000823,Mitcham and Morden,49.0%,Yes,44.7%,44.7%,
-,E14001062,York Outer,44.7%,No,0.0%,44.7%,
-,E14001004,Tunbridge Wells,44.6%,No,0.0%,44.6%,
-,S14000014,"Dumfriesshire, Clydesdale and Tweeddale",44.6%,No,0.0%,44.6%,
-,S14000037,Gordon,44.3%,No,0.0%,44.3%,
-,E14001047,Woking,44.3%,No,0.0%,44.3%,
-,S14000006,"Ayr, Carrick and Cumnock",44.1%,No,0.0%,44.1%,
-,E14000916,Sefton Central,44.1%,No,0.0%,44.1%,
-,S14000030,Glasgow East,46.5%,Yes,43.8%,43.8%,
-,W07000079,Cardiff West,43.8%,No,0.0%,43.8%,
-,E14000597,"Brighton, Kemptown",43.6%,No,0.0%,43.6%,
-,S14000055,"Ross, Skye and Lochaber",43.5%,No,0.0%,43.5%,
-,W07000047,Swansea West,43.4%,No,0.0%,43.4%,
-,E14000641,City of Durham,43.3%,No,0.0%,43.3%,
-,E14000760,Ilford South,43.3%,No,0.0%,43.3%,
-,E14000593,Brentford and Isleworth,40.4%,Yes,43.3%,43.3%,
-,S14000041,Kirkcaldy and Cowdenbeath,43.3%,No,0.0%,43.3%,
-,S14000044,Livingston,43.3%,No,0.0%,43.3%,
-,S14000008,"Berwickshire, Roxburgh and Selkirk",43.3%,No,0.0%,43.3%,
-,S14000001,Aberdeen North,43.1%,No,0.0%,43.1%,
-,E14000742,Henley,43.1%,No,0.0%,43.1%,
-,E14000630,Cheltenham,42.9%,No,0.0%,42.9%,
-,E14000591,Brent Central,42.9%,No,0.0%,42.9%,
-,E14000865,Nottingham East,42.6%,Yes,42.9%,42.9%,
-,W07000080,Cardiff South and Penarth,42.8%,No,0.0%,42.8%,
-,E14001048,Wokingham,42.7%,No,0.0%,42.7%,
-,E14000627,Cheadle,42.1%,Yes,42.7%,42.7%,
-,E14000592,Brent North,42.6%,No,0.0%,42.6%,
-,E14000783,Leicester South,42.4%,No,0.0%,42.4%,
-,S14000048,North Ayrshire and Arran,42.4%,No,0.0%,42.4%,
-,E14000640,City of Chester,42.3%,No,0.0%,42.3%,
-,S14000028,Falkirk,42.1%,No,0.0%,42.1%,
-,S14000043,Linlithgow and East Falkirk,42.0%,No,0.0%,42.0%,
-,E14000676,"Ealing, Southall",43.2%,Yes,41.8%,41.8%,
-,E14001019,Warwick and Leamington,41.6%,No,0.0%,41.6%,
-,S14000010,Central Ayrshire,41.6%,No,0.0%,41.6%,
-,E14000600,Bristol North West,41.3%,Yes,41.6%,41.6%,
-,E14000741,Hendon,41.6%,No,0.0%,41.6%,
-,E14000697,Esher and Walton,41.6%,No,0.0%,41.6%,
-,E14000908,Rushcliffe,41.5%,No,0.0%,41.5%,
-,N06000007,Fermanagh and South Tyrone,41.4%,Yes,41.4%,41.4%,
-,E14000719,Guildford,41.2%,No,0.0%,41.2%,
-,N06000014,South Antrim,41.2%,Yes,41.2%,41.2%,
-,E14000655,Croydon North,43.3%,Yes,41.2%,41.2%,
-,E14000636,Chipping Barnet,41.1%,No,0.0%,41.1%,
-,E14000832,Newcastle upon Tyne East,41.1%,No,0.0%,41.1%,
-,S14000035,Glasgow South West,40.6%,Yes,40.9%,40.9%,
-,E14000770,Kingston and Surbiton,40.8%,No,0.0%,40.8%,
-,E14000953,South West Surrey,40.7%,No,0.0%,40.7%,
-,S14000016,Dundee West,40.7%,No,0.0%,40.7%,
-,S14000032,Glasgow North East,39.7%,Yes,40.7%,40.7%,
-,E14000864,Norwich South,40.5%,No,0.0%,40.5%,
-,S14000051,Orkney and Shetland,40.3%,No,0.0%,40.3%,
-,S14000039,"Inverness, Nairn, Badenoch and Strathspey",40.1%,No,0.0%,40.1%,
-,S14000054,Perth and North Perthshire,39.9%,No,0.0%,39.9%,
-,S14000003,Airdrie and Shotts,39.8%,No,0.0%,39.8%,
-,E14000749,Hitchin and Harpenden,39.3%,Yes,39.8%,39.8%,
-,E14001041,Winchester,39.6%,No,0.0%,39.6%,
-,N06000010,Mid Ulster,39.6%,Yes,39.6%,39.6%,
-,S14000050,Ochil and South Perthshire,39.5%,No,0.0%,39.5%,
-,S14000040,Kilmarnock and Loudoun,39.5%,No,0.0%,39.5%,
-,S14000005,Argyll and Bute,39.4%,Yes,39.4%,39.4%,
-,S14000017,Dunfermline and West Fife,39.4%,No,0.0%,39.4%,
-,S14000058,West Aberdeenshire and Kincardine,39.2%,No,0.0%,39.2%,
-,W07000051,Cardiff North,39.1%,No,0.0%,39.1%,
-,E14001061,York Central,38.8%,No,0.0%,38.8%,
-,S14000011,"Coatbridge, Chryston and Bellshill",38.8%,No,0.0%,38.8%,
-,E14000532,Altrincham and Sale West,38.6%,No,0.0%,38.6%,
-,E14000934,South Cambridgeshire,38.5%,No,0.0%,38.5%,
-,S14000015,Dundee East,38.4%,No,0.0%,38.4%,
-,E14000889,Reading East,38.3%,No,0.0%,38.3%,
-,E14000808,"Manchester, Gorton",38.2%,No,0.0%,38.2%,
-,E14000874,Oxford West and Abingdon,38.0%,No,0.0%,38.0%,
-,S14000059,West Dunbartonshire,38.0%,Yes,38.0%,38.0%,
-,S14000045,Midlothian,37.9%,Yes,37.9%,37.9%,
-,E14000692,"Enfield, Southgate",37.6%,Yes,37.9%,37.9%,
-,E14000960,St Albans,37.8%,No,0.0%,37.8%,
-,S14000047,Motherwell and Wishaw,37.7%,No,0.0%,37.7%,
-,S14000056,Rutherglen and Hamilton West,37.6%,No,0.0%,37.6%,
-,E14000779,Leeds North East,37.4%,No,0.0%,37.4%,
-,N06000011,Newry and Armagh,37.1%,Yes,37.1%,37.1%,
-,S14000012,"Cumbernauld, Kilsyth and Kirkintilloch East",37.0%,No,0.0%,37.0%,
-,S14000019,"East Kilbride, Strathaven and Lesmahagow",36.9%,No,0.0%,36.9%,
-,E14000807,Manchester Central,36.4%,No,0.0%,36.4%,
-,S14000049,North East Fife,36.3%,No,0.0%,36.3%,
-,S14000038,Inverclyde,36.2%,Yes,36.2%,36.2%,
-,S14000042,Lanark and Hamilton East,36.0%,No,0.0%,36.0%,
-,W07000057,Arfon,35.8%,No,0.0%,35.8%,
-,E14000718,Greenwich and Woolwich,34.7%,Yes,35.7%,35.7%,
-,E14000564,"Birmingham, Ladywood",39.8%,Yes,35.6%,35.6%,
-,S14000052,Paisley and Renfrewshire North,35.5%,No,0.0%,35.5%,
-,E14000780,Leeds North West,35.4%,No,0.0%,35.4%,
-,S14000020,East Lothian,35.4%,Yes,35.4%,35.4%,
-,E14000787,Lewisham East,35.4%,No,0.0%,35.4%,
-,E14000795,"Liverpool, Wavertree",35.3%,No,0.0%,35.3%,
-,S14000053,Paisley and Renfrewshire South,34.8%,No,0.0%,34.8%,
-,E14000790,Leyton and Wanstead,34.8%,No,0.0%,34.8%,
-,E14000788,Lewisham West and Penge,34.6%,No,0.0%,34.6%,
-,E14000882,Poplar and Limehouse,34.2%,No,0.0%,34.2%,
-,E14000922,"Sheffield, Hallam",34.0%,No,0.0%,34.0%,
-,E14001036,Westminster North,33.7%,No,0.0%,33.7%,
-,E14000562,"Birmingham, Hall Green",42.2%,Yes,33.6%,33.6%,
-,E14001013,Walthamstow,36.0%,Yes,33.5%,33.5%,
-,E14001005,Twickenham,33.3%,No,0.0%,33.3%,
-,N06000018,West Tyrone,33.2%,Yes,33.2%,33.2%,
-,E14000755,Hove,32.9%,No,0.0%,32.9%,
-,N06000015,South Down,32.8%,Yes,32.8%,32.8%,
-,E14000873,Oxford East,32.5%,No,0.0%,32.5%,
-,S14000057,Stirling,32.3%,Yes,32.3%,32.3%,
-,S14000002,Aberdeen South,32.1%,No,0.0%,32.1%,
-,W07000050,Cardiff Central,32.0%,No,0.0%,32.0%,
-,E14000919,Sheffield Central,31.9%,No,0.0%,31.9%,
-,E14000547,Bath,31.7%,No,0.0%,31.7%,
-,S14000033,Glasgow North West,30.0%,Yes,31.5%,31.5%,
-,E14000615,Camberwell and Peckham,31.5%,No,0.0%,31.5%,
-,E14000726,Hammersmith,31.3%,No,0.0%,31.3%,
-,E14000768,Kensington,31.2%,No,0.0%,31.2%,
-,E14000703,Finchley and Golders Green,31.1%,No,0.0%,31.1%,
-,E14000555,Bethnal Green and Bow,30.9%,No,0.0%,30.9%,
-,N06000003,Belfast South,30.5%,Yes,30.5%,30.5%,
-,E14001040,Wimbledon,27.3%,Yes,29.4%,29.4%,
-,E14000674,Ealing Central and Acton,29.1%,Yes,29.2%,29.2%,
-,E14000629,Chelsea and Fulham,29.1%,No,0.0%,29.1%,
-,S14000026,Edinburgh West,31.4%,Yes,28.8%,28.8%,
-,S14000029,Glasgow Central,26.4%,Yes,28.8%,28.8%,
-,E14000896,Richmond Park,28.7%,No,0.0%,28.7%,
-,E14000764,Islington South and Finsbury,26.2%,Yes,28.3%,28.3%,
-,S14000034,Glasgow South,26.8%,Yes,28.2%,28.2%,
-,E14000639,Cities of London and Westminster,28.1%,No,0.0%,28.1%,
-,S14000025,Edinburgh South West,26.4%,Yes,27.9%,27.9%,
-,E14000887,Putney,27.8%,No,0.0%,27.8%,
-,S14000022,Edinburgh East,30.3%,Yes,27.6%,27.6%,
-,E14000793,"Liverpool, Riverside",27.3%,No,0.0%,27.3%,
-,S14000018,East Dunbartonshire,26.9%,No,0.0%,26.9%,
-,E14000750,Holborn and St Pancras,27.6%,Yes,26.7%,26.7%,
-,E14000617,Cambridge,26.3%,Yes,26.2%,26.2%,
-,E14000553,Bermondsey and Old Southwark,26.1%,No,0.0%,26.1%,
-,N06000004,Belfast West,25.9%,Yes,25.9%,25.9%,
-,E14000598,"Brighton, Pavilion",25.9%,No,0.0%,25.9%,
-,S14000021,East Renfrewshire,25.7%,Yes,25.7%,25.7%,
-,E14000998,Tooting,25.6%,No,0.0%,25.6%,
-,E14000752,Hornsey and Wood Green,18.2%,Yes,25.0%,25.0%,
-,E14000809,"Manchester, Withington",24.9%,No,0.0%,24.9%,
-,E14000789,"Lewisham, Deptford",24.4%,No,0.0%,24.4%,
-,E14001002,Tottenham,33.3%,Yes,23.8%,23.8%,
-,E14000727,Hampstead and Kilburn,23.7%,No,0.0%,23.7%,
-,E14000673,Dulwich and West Norwood,22.9%,No,0.0%,22.9%,
-,E14000721,Hackney South and Shoreditch,22.8%,No,0.0%,22.8%,
-,E14001008,Vauxhall,18.5%,Yes,22.4%,22.4%,
-,S14000024,Edinburgh South,24.8%,Yes,22.2%,22.2%,
-,E14000549,Battersea,22.0%,No,0.0%,22.0%,
-,S14000023,Edinburgh North and Leith,17.0%,Yes,21.8%,21.8%,
-,N06000008,Foyle,21.7%,Yes,21.7%,21.7%,
-,S14000031,Glasgow North,25.9%,Yes,21.6%,21.6%,
-,E14000763,Islington North,23.4%,Yes,21.6%,21.6%,
-,E14000602,Bristol West,19.1%,Yes,20.7%,20.7%,
-,E14000978,Streatham,22.2%,Yes,20.5%,20.5%,
-,E14000720,Hackney North and Stoke Newington,20.5%,No,0.0%,20.5%,
+EU REFERENDUM: CONSTITUENCY RESULTS,,,,,
+Estimates and known results of the EU Referendum by Parliamentary constituency,,,,,
+,,,,,
+,,,,,LEAVE
+,,CH leave,Known,Known,FIGURE
+ONS ID,Constituency,estimate,result,leave,TO USE
+,,,,,
+E14000582,Boston and Skegness,75.60%,No,0.00%,0.7560
+E14001011,Walsall North,71.20%,Yes,74.20%,0.7420
+E14000642,Clacton,73.00%,No,0.00%,0.7300
+E14000933,South Basildon and East Thurrock,73.00%,No,0.00%,0.7300
+E14000771,Kingston upon Hull East,72.80%,No,0.00%,0.7280
+E14000622,Castle Point,72.70%,Yes,72.70%,0.7270
+E14000973,Stoke-on-Trent North,72.10%,No,0.00%,0.7210
+E14000669,Doncaster North,71.70%,No,0.00%,0.7170
+E14000717,Great Yarmouth,71.50%,Yes,71.50%,0.7150
+E14000716,Great Grimsby,69.20%,Yes,71.40%,0.7140
+E14000671,Dudley North,69.80%,Yes,71.40%,0.7140
+E14000974,Stoke-on-Trent South,71.10%,No,0.00%,0.7110
+E14000939,South Holland and The Deepings,71.10%,No,0.00%,0.7110
+E14000542,Barnsley East,71.00%,No,0.00%,0.7100
+E14000810,Mansfield,70.90%,Yes,70.90%,0.7090
+E14000535,Ashfield,70.50%,No,0.00%,0.7050
+E14000672,Dudley South,69.70%,Yes,70.40%,0.7040
+E14000577,Bolsover,70.40%,No,0.00%,0.7040
+E14000657,Dagenham and Rainham,70.30%,No,0.00%,0.7030
+E14001028,Wentworth and Dearne,70.30%,No,0.00%,0.7030
+E14000995,Thurrock,70.30%,No,0.00%,0.7030
+E14000733,Hartlepool,69.60%,Yes,69.60%,0.6960
+E14000643,Cleethorpes,69.50%,No,0.00%,0.6950
+E14000751,Hornchurch and Upminster,69.80%,Yes,69.50%,0.6950
+E14000842,North East Cambridgeshire,69.40%,No,0.00%,0.6940
+E14000900,Romford,67.40%,Yes,69.30%,0.6930
+E14000836,"Normanton, Pontefract and Castleford",70.30%,Yes,69.30%,0.6930
+E14000798,Louth and Horncastle,68.90%,No,0.00%,0.6890
+E14000618,Cannock Chase,68.90%,Yes,68.90%,0.6890
+E14000914,Scunthorpe,68.70%,No,0.00%,0.6870
+E14001030,West Bromwich West,68.70%,No,0.00%,0.6870
+E14000667,Don Valley,68.50%,No,0.00%,0.6850
+E14000904,Rotherham,68.80%,Yes,68.30%,0.6830
+E14000546,Bassetlaw,68.30%,No,0.00%,0.6830
+E14000541,Barnsley Central,68.20%,No,0.00%,0.6820
+E14001029,West Bromwich East,68.20%,No,0.00%,0.6820
+E14001050,Wolverhampton South East,67.70%,Yes,68.10%,0.6810
+E14000740,Hemsworth,67.40%,Yes,68.10%,0.6810
+E14000773,Kingston upon Hull West and Hessle,68.00%,No,0.00%,0.6800
+E14000573,Blackpool South,67.80%,No,0.00%,0.6780
+E14000531,Aldridge-Brownhills,68.70%,Yes,67.80%,0.6780
+E14000854,North Warwickshire,67.80%,No,0.00%,0.6780
+E14000729,Harlow,67.70%,No,0.00%,0.6770
+E14001049,Wolverhampton North East,67.50%,Yes,67.70%,0.6770
+E14000891,Redcar,67.70%,No,0.00%,0.6770
+E14000888,Rayleigh and Wickford,67.70%,No,0.00%,0.6770
+E14000544,Basildon and Billericay,67.10%,No,0.00%,0.6710
+E14000572,Blackpool North and Cleveleys,66.90%,No,0.00%,0.6690
+E14000903,Rother Valley,66.50%,Yes,66.70%,0.6670
+E14000668,Doncaster Central,66.70%,No,0.00%,0.6670
+E14000952,South West Norfolk,66.70%,No,0.00%,0.6670
+E14000609,Burnley,66.60%,Yes,66.60%,0.6660
+E14000722,Halesowen and Rowley Regis,66.60%,No,0.00%,0.6660
+E14000879,"Plymouth, Moor View",68.50%,Yes,66.40%,0.6640
+E14000970,Stockton North,66.30%,No,0.00%,0.6630
+E14000920,Sheffield South East,66.30%,No,0.00%,0.6630
+E14000596,Brigg and Goole,66.20%,No,0.00%,0.6620
+E14000989,Telford,66.20%,No,0.00%,0.6620
+E14000819,Middlesbrough,64.50%,Yes,66.10%,0.6610
+E14000986,Tamworth,66.00%,No,0.00%,0.6600
+E14000677,Easington,66.00%,No,0.00%,0.6600
+E14000758,Hyndburn,65.80%,No,0.00%,0.6580
+E14000859,North West Norfolk,65.80%,No,0.00%,0.6580
+E14000606,Broxbourne,65.50%,No,0.00%,0.6550
+E14000715,Gravesham,65.40%,Yes,65.40%,0.6540
+E14000927,Sittingbourne and Sheppey,65.40%,No,0.00%,0.6540
+E14000533,Amber Valley,65.30%,No,0.00%,0.6530
+E14000820,Middlesbrough South and East Cleveland,65.30%,No,0.00%,0.6530
+E14000558,Bexleyheath and Crayford,65.30%,No,0.00%,0.6530
+E14000945,South Staffordshire,65.50%,Yes,65.20%,0.6520
+E14000852,North Thanet,65.20%,No,0.00%,0.6520
+E14000805,Makerfield,64.90%,No,0.00%,0.6490
+E14000972,Stoke-on-Trent Central,64.80%,No,0.00%,0.6480
+E14000610,Burton,64.80%,No,0.00%,0.6480
+E14000576,Bognor Regis and Littlehampton,64.80%,No,0.00%,0.6480
+E14000966,Staffordshire Moorlands,64.70%,No,0.00%,0.6470
+E14000868,Nuneaton,64.50%,No,0.00%,0.6450
+E14000961,St Austell and Newquay,64.10%,No,0.00%,0.6410
+E14000659,Dartford,64.00%,No,0.00%,0.6400
+E14000626,Chatham and Aylesford,63.90%,No,0.00%,0.6390
+E14000866,Nottingham North,63.30%,Yes,63.80%,0.6380
+E14000883,Portsmouth North,65.20%,Yes,63.70%,0.6370
+E14000898,Rochester and Strood,63.40%,Yes,63.70%,0.6370
+E14000976,Stourbridge,64.70%,Yes,63.70%,0.6370
+E14000683,East Yorkshire,63.70%,No,0.00%,0.6370
+E14000924,Sherwood,63.70%,No,0.00%,0.6370
+E14000711,Gillingham and Rainham,64.20%,Yes,63.60%,0.6360
+E14000588,Bradford South,63.60%,Yes,63.60%,0.6360
+E14001022,Waveney,63.40%,No,0.00%,0.6340
+E14000785,Leigh,63.30%,No,0.00%,0.6330
+E14001034,West Suffolk,63.20%,No,0.00%,0.6320
+E14000695,Erewash,63.20%,No,0.00%,0.6320
+E14000875,Pendle,63.20%,Yes,63.20%,0.6320
+E14001058,Wyre Forest,63.10%,Yes,63.10%,0.6310
+E14000579,Bolton South East,63.00%,No,0.00%,0.6300
+E14001025,Wellingborough,63.00%,No,0.00%,0.6300
+E14000670,Dover,63.00%,No,0.00%,0.6300
+E14000561,"Birmingham, Erdington",58.50%,Yes,63.00%,0.6300
+E14001039,Wigan,63.00%,No,0.00%,0.6300
+E14001009,Wakefield,62.60%,Yes,62.80%,0.6280
+E14000878,Peterborough,62.70%,No,0.00%,0.6270
+E14000736,Havant,62.60%,No,0.00%,0.6260
+E14000999,Torbay,62.50%,No,0.00%,0.6250
+E14000754,Houghton and Sunderland South,64.50%,Yes,62.40%,0.6240
+E14000869,Old Bexley and Sidcup,62.40%,No,0.00%,0.6240
+E14000747,Heywood and Middleton,62.00%,Yes,62.40%,0.6240
+N06000012,North Antrim,62.20%,Yes,62.20%,0.6220
+E14000595,Bridgwater and West Somerset,62.10%,No,0.00%,0.6210
+E14000944,South Shields,62.70%,Yes,62.10%,0.6210
+E14000843,North East Derbyshire,62.10%,No,0.00%,0.6210
+W07000072,Blaenau Gwent,62.00%,Yes,62.00%,0.6200
+E14000707,Gainsborough,62.00%,No,0.00%,0.6200
+E14000762,Isle of Wight,61.90%,Yes,61.90%,0.6190
+E14001020,Washington and Sunderland West,64.50%,Yes,61.90%,0.6190
+E14000713,Gosport,61.80%,No,0.00%,0.6180
+E14000537,Ashton-under-Lyne,63.40%,Yes,61.80%,0.6180
+E14000565,"Birmingham, Northfield",59.30%,Yes,61.80%,0.6180
+W07000048,Swansea East,61.80%,No,0.00%,0.6180
+E14000765,Jarrow,61.80%,No,0.00%,0.6180
+E14000948,South Thanet,61.70%,No,0.00%,0.6170
+E14000834,Newcastle-under-Lyme,61.60%,No,0.00%,0.6160
+E14000704,Folkestone and Hythe,61.60%,No,0.00%,0.6160
+E14001012,Walsall South,63.40%,Yes,61.60%,0.6160
+E14001016,Warley,61.60%,No,0.00%,0.6160
+E14000929,Sleaford and North Hykeham,61.60%,No,0.00%,0.6160
+E14000590,Braintree,61.50%,No,0.00%,0.6150
+E14000778,Leeds East,61.40%,No,0.00%,0.6140
+E14000663,Derby South,61.40%,No,0.00%,0.6140
+E14000913,Scarborough and Whitby,61.30%,No,0.00%,0.6130
+E14000871,Oldham West and Royton,62.30%,Yes,61.30%,0.6130
+E14000594,Brentwood and Ongar,61.20%,No,0.00%,0.6120
+E14000693,Epping Forest,61.00%,No,0.00%,0.6100
+E14001053,Workington,61.00%,No,0.00%,0.6100
+E14000714,Grantham and Stamford,61.00%,No,0.00%,0.6100
+E14000892,Redditch,61.00%,No,0.00%,0.6100
+E14000769,Kettering,61.00%,Yes,61.00%,0.6100
+E14000661,Denton and Reddish,61.40%,Yes,61.00%,0.6100
+E14000806,Maldon,61.00%,No,0.00%,0.6100
+E14000899,Rochford and Southend East,60.90%,No,0.00%,0.6090
+E14000569,Bishop Auckland,60.90%,No,0.00%,0.6090
+E14000583,Bosworth,60.80%,No,0.00%,0.6080
+W07000053,Torfaen,60.80%,No,0.00%,0.6080
+E14000858,North West Leicestershire,60.70%,Yes,60.70%,0.6070
+E14000876,Penistone and Stocksbridge,60.70%,No,0.00%,0.6070
+E14000620,Carlisle,60.60%,No,0.00%,0.6060
+E14000816,Mid Norfolk,60.60%,No,0.00%,0.6060
+E14000575,Blyth Valley,60.50%,No,0.00%,0.6050
+E14001045,Witham,60.50%,No,0.00%,0.6050
+W07000052,Rhondda,60.40%,No,0.00%,0.6040
+E14000743,Hereford and South Herefordshire,60.40%,No,0.00%,0.6040
+E14000935,South Derbyshire,60.40%,Yes,60.40%,0.6040
+E14000840,North Durham,60.30%,No,0.00%,0.6030
+E14000959,Spelthorne,60.30%,Yes,60.30%,0.6030
+E14000955,"Southampton, Itchen",60.30%,No,0.00%,0.6030
+E14000653,Crewe and Nantwich,60.30%,No,0.00%,0.6030
+E14000861,Northampton North,60.30%,No,0.00%,0.6030
+E14000837,North Cornwall,60.20%,No,0.00%,0.6020
+E14000827,New Forest East,60.20%,No,0.00%,0.6020
+E14000648,Corby,60.10%,No,0.00%,0.6010
+W07000049,Aberavon,60.10%,No,0.00%,0.6010
+E14000568,"Birmingham, Yardley",60.60%,Yes,60.10%,0.6010
+E14000540,Barking,60.00%,No,0.00%,0.6000
+E14000921,"Sheffield, Brightside and Hillsborough",60.00%,No,0.00%,0.6000
+E14000638,Christchurch,60.00%,No,0.00%,0.6000
+E14000982,Sunderland Central,55.40%,Yes,59.90%,0.5990
+E14000870,Oldham East and Saddleworth,57.90%,Yes,59.90%,0.5990
+W07000062,Clwyd South,59.90%,No,0.00%,0.5990
+E14001060,Yeovil,59.90%,No,0.00%,0.5990
+E14000536,Ashford,59.90%,No,0.00%,0.5990
+E14000849,North Shropshire,59.80%,No,0.00%,0.5980
+E14000826,Morley and Outwood,59.80%,No,0.00%,0.5980
+E14001054,Worsley and Eccles South,62.20%,Yes,59.80%,0.5980
+E14000772,Kingston upon Hull North,59.80%,No,0.00%,0.5980
+E14000548,Batley and Spen,59.60%,No,0.00%,0.5960
+E14000853,North Tyneside,59.50%,No,0.00%,0.5950
+E14000936,South Dorset,59.40%,No,0.00%,0.5940
+E14000915,Sedgefield,59.40%,No,0.00%,0.5940
+E14000818,Mid Worcestershire,59.40%,No,0.00%,0.5940
+W07000055,Newport East,59.30%,No,0.00%,0.5930
+E14000992,The Wrekin,59.30%,No,0.00%,0.5930
+E14000632,Chesterfield,59.30%,No,0.00%,0.5930
+E14000967,Stalybridge and Hyde,58.50%,Yes,59.30%,0.5930
+E14000647,Copeland,59.20%,No,0.00%,0.5920
+E14000800,Luton North,59.20%,No,0.00%,0.5920
+E14000734,Harwich and North Essex,59.00%,No,0.00%,0.5900
+E14000862,Northampton South,59.00%,No,0.00%,0.5900
+W07000077,Islwyn,58.90%,No,0.00%,0.5890
+E14000902,Rossendale and Darwen,58.90%,No,0.00%,0.5890
+W07000074,Ogmore,58.90%,No,0.00%,0.5890
+E14000723,Halifax,60.70%,Yes,58.80%,0.5880
+E14000712,Gloucester,58.80%,No,0.00%,0.5880
+E14000812,Meriden,58.10%,Yes,58.80%,0.5880
+E14000556,Beverley and Holderness,58.70%,No,0.00%,0.5870
+E14000894,Ribble Valley,58.70%,No,0.00%,0.5870
+E14000700,Faversham and Mid Kent,58.70%,No,0.00%,0.5870
+E14000905,Rugby,58.60%,No,0.00%,0.5860
+E14000660,Daventry,58.60%,No,0.00%,0.5860
+E14000652,Crawley,58.40%,Yes,58.40%,0.5840
+E14000616,Camborne and Redruth,58.40%,No,0.00%,0.5840
+E14000848,North Norfolk,58.40%,No,0.00%,0.5840
+E14000962,St Helens North,58.40%,No,0.00%,0.5840
+E14000650,Coventry North West,58.40%,No,0.00%,0.5840
+W07000071,Merthyr Tydfil and Rhymney,58.40%,No,0.00%,0.5840
+E14000688,Ellesmere Port and Neston,58.30%,No,0.00%,0.5830
+E14000737,Hayes and Harlington,58.20%,No,0.00%,0.5820
+E14000825,Morecambe and Lunesdale,58.20%,No,0.00%,0.5820
+E14000940,South Leicestershire,58.10%,No,0.00%,0.5810
+E14000578,Bolton North East,58.10%,No,0.00%,0.5810
+E14000658,Darlington,58.10%,No,0.00%,0.5810
+E14000949,South West Bedfordshire,58.10%,No,0.00%,0.5810
+E14001017,Warrington North,58.10%,No,0.00%,0.5810
+W07000043,Alyn and Deeside,58.10%,No,0.00%,0.5810
+E14000847,North Herefordshire,58.00%,No,0.00%,0.5800
+E14000530,Aldershot,58.10%,Yes,57.90%,0.5790
+E14000705,Forest of Dean,57.90%,No,0.00%,0.5790
+E14000799,Ludlow,57.90%,No,0.00%,0.5790
+E14000625,Charnwood,57.90%,No,0.00%,0.5790
+E14000996,Tiverton and Honiton,57.80%,No,0.00%,0.5780
+E14000649,Coventry North East,57.80%,No,0.00%,0.5780
+E14000971,Stockton South,57.80%,No,0.00%,0.5780
+E14000585,Bournemouth West,57.70%,No,0.00%,0.5770
+E14000557,Bexhill and Battle,57.70%,No,0.00%,0.5770
+E14000725,Halton,57.70%,No,0.00%,0.5770
+E14000917,Selby and Ainsty,57.70%,No,0.00%,0.5770
+W07000044,Wrexham,57.60%,No,0.00%,0.5760
+E14000684,Eastbourne,57.50%,No,0.00%,0.5750
+E14000872,Orpington,56.20%,Yes,57.50%,0.5750
+E14000975,Stone,57.50%,No,0.00%,0.5750
+E14000791,Lichfield,57.50%,No,0.00%,0.5750
+E14000965,Stafford,57.50%,No,0.00%,0.5750
+E14000897,Rochdale,57.90%,Yes,57.50%,0.5750
+E14000792,Lincoln,57.40%,No,0.00%,0.5740
+E14000881,Poole,57.40%,No,0.00%,0.5740
+E14000851,North Swindon,57.30%,No,0.00%,0.5730
+E14000543,Barrow and Furness,57.30%,No,0.00%,0.5730
+E14001038,Weston-Super-Mare,57.20%,No,0.00%,0.5720
+E14001000,Torridge and West Devon,57.20%,No,0.00%,0.5720
+E14001007,Uxbridge and South Ruislip,57.20%,No,0.00%,0.5720
+E14000923,"Sheffield, Heeley",57.20%,No,0.00%,0.5720
+E14000666,Dewsbury,57.10%,No,0.00%,0.5710
+E14000774,Kingswood,57.10%,No,0.00%,0.5710
+E14000815,Mid Dorset and North Poole,57.10%,No,0.00%,0.5710
+E14000838,North Devon,57.00%,Yes,57.00%,0.5700
+E14000968,Stevenage,57.00%,No,0.00%,0.5700
+E14000855,North West Cambridgeshire,56.90%,No,0.00%,0.5690
+E14000954,South West Wiltshire,56.90%,No,0.00%,0.5690
+E14000833,Newcastle upon Tyne North,56.80%,No,0.00%,0.5680
+E14000689,Elmet and Rothwell,56.80%,No,0.00%,0.5680
+E14000637,Chorley,56.70%,No,0.00%,0.5670
+W07000070,Cynon Valley,56.70%,No,0.00%,0.5670
+E14000706,Fylde,56.70%,No,0.00%,0.5670
+E14000863,Norwich North,56.70%,No,0.00%,0.5670
+W07000045,Llanelli,56.70%,No,0.00%,0.5670
+E14000943,South Ribble,56.60%,No,0.00%,0.5660
+E14000839,North Dorset,56.60%,No,0.00%,0.5660
+W07000060,Vale of Clwyd,56.60%,No,0.00%,0.5660
+E14000761,Ipswich,56.50%,No,0.00%,0.5650
+E14000993,Thirsk and Malton,56.40%,No,0.00%,0.5640
+E14000710,Gedling,56.30%,No,0.00%,0.5630
+E14001014,Wansbeck,56.30%,No,0.00%,0.5630
+E14000621,Carshalton and Wallington,56.30%,No,0.00%,0.5630
+E14000709,Gateshead,56.20%,No,0.00%,0.5620
+E14000574,Blaydon,56.10%,No,0.00%,0.5610
+E14000963,St Helens South and Whiston,56.10%,No,0.00%,0.5610
+E14001055,Worthing West,56.00%,No,0.00%,0.5600
+E14000835,Newton Abbot,56.00%,No,0.00%,0.5600
+E14000735,Hastings and Rye,55.90%,No,0.00%,0.5590
+E14000701,Feltham and Heston,58.30%,Yes,55.90%,0.5590
+E14000804,Maidstone and The Weald,55.90%,No,0.00%,0.5590
+W07000063,Montgomeryshire,55.80%,No,0.00%,0.5580
+E14000829,Newark,55.70%,No,0.00%,0.5570
+E14000885,Preston,55.70%,No,0.00%,0.5570
+E14000580,Bolton West,55.60%,No,0.00%,0.5560
+N06000016,Strangford,55.50%,Yes,55.50%,0.5550
+E14000699,Fareham,55.50%,No,0.00%,0.5550
+E14000739,Hemel Hempstead,55.50%,No,0.00%,0.5550
+E14000605,Bromsgrove,55.40%,Yes,55.40%,0.5540
+W07000065,Preseli Pembrokeshire,55.30%,No,0.00%,0.5530
+E14000554,Berwick-upon-Tweed,55.30%,No,0.00%,0.5530
+E14000828,New Forest West,55.30%,No,0.00%,0.5530
+E14000724,Haltemprice and Howden,55.20%,No,0.00%,0.5520
+E14000981,Suffolk Coastal,55.20%,No,0.00%,0.5520
+E14000877,Penrith and The Border,55.20%,No,0.00%,0.5520
+N06000005,East Antrim,55.20%,Yes,55.20%,0.5520
+W07000066,Carmarthen West and South Pembrokeshire,55.20%,No,0.00%,0.5520
+E14000587,Bradford East,55.60%,Yes,55.20%,0.5520
+W07000076,Caerphilly,55.10%,No,0.00%,0.5510
+E14000938,South East Cornwall,55.10%,No,0.00%,0.5510
+E14000950,South West Devon,55.10%,No,0.00%,0.5510
+E14000957,Southend West,57.00%,Yes,55.10%,0.5510
+E14000856,North West Durham,55.00%,No,0.00%,0.5500
+E14001033,West Lancashire,55.00%,No,0.00%,0.5500
+E14000624,Central Suffolk and North Ipswich,54.90%,No,0.00%,0.5490
+E14000581,Bootle,54.80%,No,0.00%,0.5480
+E14000964,St Ives,54.80%,No,0.00%,0.5480
+E14000857,North West Hampshire,54.80%,No,0.00%,0.5480
+E14000895,Richmond (Yorks),54.70%,No,0.00%,0.5470
+E14000696,Erith and Thamesmead,54.60%,No,0.00%,0.5460
+E14000801,Luton South,54.60%,No,0.00%,0.5460
+E14000612,Bury South,54.50%,No,0.00%,0.5450
+W07000042,Delyn,54.40%,No,0.00%,0.5440
+E14000880,"Plymouth, Sutton and Devonport",51.40%,Yes,54.40%,0.5440
+E14001051,Wolverhampton South West,54.40%,Yes,54.40%,0.5440
+E14000685,Eastleigh,54.30%,No,0.00%,0.5430
+E14000662,Derby North,54.30%,No,0.00%,0.5430
+E14000681,East Surrey,54.20%,No,0.00%,0.5420
+E14001057,Wyre and Preston North,54.20%,No,0.00%,0.5420
+E14000603,Broadland,54.10%,No,0.00%,0.5410
+E14000782,Leicester East,54.10%,No,0.00%,0.5410
+E14000930,Slough,54.10%,No,0.00%,0.5410
+E14000918,Sevenoaks,54.00%,No,0.00%,0.5400
+E14000946,South Suffolk,54.00%,No,0.00%,0.5400
+W07000069,Neath,54.00%,No,0.00%,0.5400
+E14000613,Bury St Edmunds,54.00%,No,0.00%,0.5400
+E14001001,Totnes,53.90%,No,0.00%,0.5390
+E14000909,Rutland and Melton,53.90%,No,0.00%,0.5390
+E14000570,Blackburn,55.90%,Yes,53.70%,0.5370
+E14000584,Bournemouth East,53.70%,No,0.00%,0.5370
+E14000682,East Worthing and Shoreham,53.70%,No,0.00%,0.5370
+E14001052,Worcester,53.70%,Yes,53.70%,0.5370
+E14000611,Bury North,53.70%,No,0.00%,0.5370
+W07000056,Newport West,53.70%,No,0.00%,0.5370
+E14000990,Tewkesbury,53.60%,No,0.00%,0.5360
+E14001026,Wells,53.60%,No,0.00%,0.5360
+E14000545,Basingstoke,53.60%,No,0.00%,0.5360
+S14000007,Banff and Buchan,53.60%,No,0.00%,0.5360
+E14000911,Salford and Eccles,52.80%,Yes,53.60%,0.5360
+E14000665,Devizes,53.50%,No,0.00%,0.5350
+E14000757,Huntingdon,53.50%,No,0.00%,0.5350
+E14000841,North East Bedfordshire,53.40%,No,0.00%,0.5340
+E14000931,Solihull,54.20%,Yes,53.30%,0.5330
+E14000942,South Northamptonshire,53.30%,No,0.00%,0.5330
+E14000766,Keighley,55.60%,Yes,53.30%,0.5330
+E14000759,Ilford North,53.30%,No,0.00%,0.5330
+E14000781,Leeds West,53.30%,No,0.00%,0.5330
+E14000586,Bracknell,53.20%,No,0.00%,0.5320
+W07000067,Carmarthen East and Dinefwr,53.20%,No,0.00%,0.5320
+E14000928,Skipton and Ripon,53.20%,No,0.00%,0.5320
+E14000614,Calder Valley,51.50%,Yes,53.20%,0.5320
+N06000009,Lagan Valley,53.10%,Yes,53.10%,0.5310
+E14000822,Milton Keynes South,53.10%,No,0.00%,0.5310
+W07000059,Clwyd West,53.00%,No,0.00%,0.5300
+E14000988,Taunton Deane,52.90%,Yes,52.90%,0.5290
+E14000926,Shrewsbury and Atcham,52.90%,No,0.00%,0.5290
+E14000813,Mid Bedfordshire,52.90%,No,0.00%,0.5290
+E14000997,Tonbridge and Malling,52.90%,No,0.00%,0.5290
+E14001027,Welwyn Hatfield,52.80%,No,0.00%,0.5280
+E14001023,Wealden,52.80%,No,0.00%,0.5280
+N06000017,Upper Bann,52.60%,Yes,52.60%,0.5260
+E14000646,Congleton,52.60%,No,0.00%,0.5260
+W07000078,Vale of Glamorgan,52.60%,No,0.00%,0.5260
+E14001035,West Worcestershire,52.50%,No,0.00%,0.5250
+E14000607,Broxtowe,52.50%,No,0.00%,0.5250
+E14000814,Mid Derbyshire,52.50%,No,0.00%,0.5250
+E14000728,Harborough,52.40%,No,0.00%,0.5240
+E14000775,Knowsley,52.30%,No,0.00%,0.5230
+E14000925,Shipley,49.70%,Yes,52.20%,0.5220
+E14000738,Hazel Grove,51.70%,Yes,52.20%,0.5220
+W07000058,Aberconwy,52.20%,No,0.00%,0.5220
+E14000994,Thornbury and Yate,52.20%,No,0.00%,0.5220
+E14000794,"Liverpool, Walton",52.20%,No,0.00%,0.5220
+E14000686,Eddisbury,52.20%,No,0.00%,0.5220
+E14000776,Lancaster and Fleetwood,52.00%,No,0.00%,0.5200
+E14000552,Bedford,53.40%,Yes,51.90%,0.5190
+N06000001,Belfast East,51.90%,Yes,51.90%,0.5190
+E14000811,Meon Valley,51.90%,No,0.00%,0.5190
+W07000068,Brecon and Radnorshire,51.90%,No,0.00%,0.5190
+E14000983,Surrey Heath,51.90%,No,0.00%,0.5190
+E14000756,Huddersfield,51.90%,No,0.00%,0.5190
+E14000690,Eltham,52.40%,Yes,51.80%,0.5180
+E14000538,Aylesbury,51.80%,No,0.00%,0.5180
+E14000884,Portsmouth South,49.70%,Yes,51.80%,0.5180
+E14000559,Birkenhead,52.70%,Yes,51.70%,0.5170
+E14000985,Sutton Coldfield,48.40%,Yes,51.70%,0.5170
+E14000947,South Swindon,51.70%,No,0.00%,0.5170
+E14000846,North East Somerset,51.60%,No,0.00%,0.5160
+E14000635,Chippenham,51.60%,No,0.00%,0.5160
+E14000644,Colchester,51.50%,No,0.00%,0.5150
+E14000890,Reading West,51.50%,No,0.00%,0.5150
+E14000563,"Birmingham, Hodge Hill",50.80%,Yes,51.50%,0.5150
+E14000845,North East Hertfordshire,51.40%,No,0.00%,0.5140
+S14000009,"Caithness, Sutherland and Easter Ross",51.30%,No,0.00%,0.5130
+E14000984,Sutton and Cheam,51.30%,No,0.00%,0.5130
+E14000910,Saffron Walden,51.20%,No,0.00%,0.5120
+E14000664,Derbyshire Dales,51.20%,No,0.00%,0.5120
+E14000566,"Birmingham, Perry Barr",54.20%,Yes,51.20%,0.5120
+E14001021,Watford,51.20%,No,0.00%,0.5120
+E14001018,Warrington South,51.10%,No,0.00%,0.5110
+E14001031,West Dorset,51.00%,No,0.00%,0.5100
+E14000977,Stratford-on-Avon,51.00%,No,0.00%,0.5100
+W07000041,Ynys Mon,50.90%,Yes,50.90%,0.5090
+E14000623,Central Devon,50.90%,No,0.00%,0.5090
+E14000941,South Norfolk,50.90%,No,0.00%,0.5090
+E14000745,Hertsmere,50.80%,Yes,50.80%,0.5080
+E14000784,Leicester West,50.80%,No,0.00%,0.5080
+E14000633,Chichester,50.70%,No,0.00%,0.5070
+E14000628,Chelmsford,50.70%,No,0.00%,0.5070
+E14001024,Weaver Vale,50.60%,No,0.00%,0.5060
+E14000748,High Peak,50.50%,Yes,50.50%,0.5050
+E14000678,East Devon,50.40%,No,0.00%,0.5040
+E14000651,Coventry South,50.40%,No,0.00%,0.5040
+E14000539,Banbury,50.30%,No,0.00%,0.5030
+E14000932,Somerton and Frome,50.30%,No,0.00%,0.5030
+E14000654,Croydon Central,48.70%,Yes,50.30%,0.5030
+E14000860,North Wiltshire,50.30%,No,0.00%,0.5030
+W07000073,Bridgend,50.30%,No,0.00%,0.5030
+E14000797,Loughborough,50.10%,No,0.00%,0.5010
+E14000645,Colne Valley,50.10%,No,0.00%,0.5010
+E14000571,Blackley and Broughton,50.00%,No,0.00%,0.5000
+E14001010,Wallasey,52.50%,Yes,49.90%,0.4990
+E14000912,Salisbury,49.90%,No,0.00%,0.4990
+E14000634,Chingford and Woodford Green,49.90%,No,0.00%,0.4990
+S14000046,Moray,49.90%,Yes,49.90%,0.4990
+E14000907,Runnymede and Weybridge,49.80%,No,0.00%,0.4980
+E14000604,Bromley and Chislehurst,49.70%,Yes,49.80%,0.4980
+E14000796,"Liverpool, West Derby",49.80%,No,0.00%,0.4980
+E14000534,Arundel and South Downs,49.70%,No,0.00%,0.4970
+E14000821,Milton Keynes North,49.70%,No,0.00%,0.4970
+E14001059,Wythenshawe and Sale East,49.60%,No,0.00%,0.4960
+N06000002,Belfast North,49.60%,Yes,49.60%,0.4960
+E14000906,"Ruislip, Northwood and Pinner",49.50%,No,0.00%,0.4950
+E14000753,Horsham,49.50%,No,0.00%,0.4950
+E14000956,"Southampton, Test",49.40%,No,0.00%,0.4940
+W07000046,Gower,49.30%,No,0.00%,0.4930
+E14000680,East Hampshire,49.30%,No,0.00%,0.4930
+E14000744,Hertford and Stortford,49.20%,No,0.00%,0.4920
+E14000691,Enfield North,47.90%,Yes,49.20%,0.4920
+E14000550,Beaconsfield,49.00%,No,0.00%,0.4900
+E14000979,Stretford and Urmston,48.90%,No,0.00%,0.4890
+E14000608,Buckingham,48.90%,No,0.00%,0.4890
+E14000702,Filton and Bradley Stoke,48.80%,No,0.00%,0.4880
+E14000886,Pudsey,48.60%,No,0.00%,0.4860
+E14001056,Wycombe,48.50%,No,0.00%,0.4850
+S14000004,Angus,48.20%,No,0.00%,0.4820
+W07000054,Monmouth,48.10%,No,0.00%,0.4810
+E14000831,Newcastle upon Tyne Central,48.00%,No,0.00%,0.4800
+E14000893,Reigate,48.00%,No,0.00%,0.4800
+N06000006,East Londonderry,48.00%,Yes,48.00%,0.4800
+E14001032,West Ham,48.00%,No,0.00%,0.4800
+E14000708,Garston and Halewood,48.00%,No,0.00%,0.4800
+E14000991,The Cotswolds,47.90%,No,0.00%,0.4790
+E14000830,Newbury,47.80%,No,0.00%,0.4780
+E14000694,Epsom and Ewell,47.80%,No,0.00%,0.4780
+N06000013,North Down,47.60%,Yes,47.60%,0.4760
+E14001006,Tynemouth,47.60%,No,0.00%,0.4760
+S14000036,Glenrothes,47.60%,No,0.00%,0.4760
+E14000850,North Somerset,47.60%,No,0.00%,0.4760
+E14000731,Harrow East,49.70%,Yes,47.50%,0.4750
+W07000061,Dwyfor Meirionnydd,47.40%,No,0.00%,0.4740
+E14000824,Mole Valley,47.30%,No,0.00%,0.4730
+E14000560,"Birmingham, Edgbaston",43.80%,Yes,47.30%,0.4730
+E14000802,Macclesfield,47.20%,No,0.00%,0.4720
+E14000730,Harrogate and Knaresborough,47.20%,No,0.00%,0.4720
+E14000786,Lewes,47.10%,No,0.00%,0.4710
+E14000601,Bristol South,47.30%,Yes,47.10%,0.4710
+E14001037,Westmorland and Lonsdale,47.10%,No,0.00%,0.4710
+E14000567,"Birmingham, Selly Oak",45.70%,Yes,46.90%,0.4690
+E14000599,Bristol East,48.70%,Yes,46.80%,0.4680
+E14000969,Stockport,47.90%,Yes,46.80%,0.4680
+E14000589,Bradford West,46.40%,Yes,46.70%,0.4670
+E14001042,Windsor,46.70%,No,0.00%,0.4670
+E14000551,Beckenham,46.60%,No,0.00%,0.4660
+E14001043,Wirral South,45.50%,Yes,46.50%,0.4650
+W07000075,Pontypridd,46.50%,No,0.00%,0.4650
+E14000867,Nottingham South,45.60%,Yes,46.50%,0.4650
+E14001015,Wantage,46.50%,No,0.00%,0.4650
+E14000817,Mid Sussex,46.40%,No,0.00%,0.4640
+E14001046,Witney,46.30%,Yes,46.30%,0.4630
+E14000958,Southport,46.30%,No,0.00%,0.4630
+E14000679,East Ham,46.30%,No,0.00%,0.4630
+E14000675,Ealing North,48.60%,Yes,46.30%,0.4630
+E14000767,Kenilworth and Southam,46.20%,No,0.00%,0.4620
+E14000951,South West Hertfordshire,46.20%,No,0.00%,0.4620
+E14000844,North East Hampshire,46.20%,No,0.00%,0.4620
+E14000901,Romsey and Southampton North,46.10%,No,0.00%,0.4610
+E14000777,Leeds Central,46.00%,No,0.00%,0.4600
+E14000980,Stroud,45.90%,No,0.00%,0.4590
+E14001003,Truro and Falmouth,45.90%,No,0.00%,0.4590
+E14000656,Croydon South,45.30%,Yes,45.80%,0.4580
+E14000987,Tatton,45.60%,No,0.00%,0.4560
+E14000687,Edmonton,47.40%,Yes,45.50%,0.4550
+W07000064,Ceredigion,45.40%,Yes,45.40%,0.4540
+E14000746,Hexham,45.30%,No,0.00%,0.4530
+E14000619,Canterbury,45.30%,No,0.00%,0.4530
+E14000937,South East Cambridgeshire,45.30%,No,0.00%,0.4530
+S14000013,Dumfries and Galloway,45.10%,No,0.00%,0.4510
+E14000732,Harrow West,41.90%,Yes,45.10%,0.4510
+E14000803,Maidenhead,45.00%,No,0.00%,0.4500
+E14000631,Chesham and Amersham,45.00%,Yes,45.00%,0.4500
+E14000698,Exeter,44.80%,No,0.00%,0.4480
+S14000027,Na h-Eileanan an Iar,44.80%,Yes,44.80%,0.4480
+E14001044,Wirral West,42.60%,Yes,44.70%,0.4470
+E14000823,Mitcham and Morden,49.00%,Yes,44.70%,0.4470
+E14001062,York Outer,44.70%,No,0.00%,0.4470
+E14001004,Tunbridge Wells,44.60%,No,0.00%,0.4460
+S14000014,"Dumfriesshire, Clydesdale and Tweeddale",44.60%,No,0.00%,0.4460
+S14000037,Gordon,44.30%,No,0.00%,0.4430
+E14001047,Woking,44.30%,No,0.00%,0.4430
+S14000006,"Ayr, Carrick and Cumnock",44.10%,No,0.00%,0.4410
+E14000916,Sefton Central,44.10%,No,0.00%,0.4410
+S14000030,Glasgow East,46.50%,Yes,43.80%,0.4380
+W07000079,Cardiff West,43.80%,No,0.00%,0.4380
+E14000597,"Brighton, Kemptown",43.60%,No,0.00%,0.4360
+S14000055,"Ross, Skye and Lochaber",43.50%,No,0.00%,0.4350
+W07000047,Swansea West,43.40%,No,0.00%,0.4340
+E14000641,City of Durham,43.30%,No,0.00%,0.4330
+E14000760,Ilford South,43.30%,No,0.00%,0.4330
+E14000593,Brentford and Isleworth,40.40%,Yes,43.30%,0.4330
+S14000041,Kirkcaldy and Cowdenbeath,43.30%,No,0.00%,0.4330
+S14000044,Livingston,43.30%,No,0.00%,0.4330
+S14000008,"Berwickshire, Roxburgh and Selkirk",43.30%,No,0.00%,0.4330
+S14000001,Aberdeen North,43.10%,No,0.00%,0.4310
+E14000742,Henley,43.10%,No,0.00%,0.4310
+E14000630,Cheltenham,42.90%,No,0.00%,0.4290
+E14000591,Brent Central,42.90%,No,0.00%,0.4290
+E14000865,Nottingham East,42.60%,Yes,42.90%,0.4290
+W07000080,Cardiff South and Penarth,42.80%,No,0.00%,0.4280
+E14001048,Wokingham,42.70%,No,0.00%,0.4270
+E14000627,Cheadle,42.10%,Yes,42.70%,0.4270
+E14000592,Brent North,42.60%,No,0.00%,0.4260
+E14000783,Leicester South,42.40%,No,0.00%,0.4240
+S14000048,North Ayrshire and Arran,42.40%,No,0.00%,0.4240
+E14000640,City of Chester,42.30%,No,0.00%,0.4230
+S14000028,Falkirk,42.10%,No,0.00%,0.4210
+S14000043,Linlithgow and East Falkirk,42.00%,No,0.00%,0.4200
+E14000676,"Ealing, Southall",43.20%,Yes,41.80%,0.4180
+E14001019,Warwick and Leamington,41.60%,No,0.00%,0.4160
+S14000010,Central Ayrshire,41.60%,No,0.00%,0.4160
+E14000600,Bristol North West,41.30%,Yes,41.60%,0.4160
+E14000741,Hendon,41.60%,No,0.00%,0.4160
+E14000697,Esher and Walton,41.60%,No,0.00%,0.4160
+E14000908,Rushcliffe,41.50%,No,0.00%,0.4150
+N06000007,Fermanagh and South Tyrone,41.40%,Yes,41.40%,0.4140
+E14000719,Guildford,41.20%,No,0.00%,0.4120
+N06000014,South Antrim,41.20%,Yes,41.20%,0.4120
+E14000655,Croydon North,43.30%,Yes,41.20%,0.4120
+E14000636,Chipping Barnet,41.10%,No,0.00%,0.4110
+E14000832,Newcastle upon Tyne East,41.10%,No,0.00%,0.4110
+S14000035,Glasgow South West,40.60%,Yes,40.90%,0.4090
+E14000770,Kingston and Surbiton,40.80%,No,0.00%,0.4080
+E14000953,South West Surrey,40.70%,No,0.00%,0.4070
+S14000016,Dundee West,40.70%,No,0.00%,0.4070
+S14000032,Glasgow North East,39.70%,Yes,40.70%,0.4070
+E14000864,Norwich South,40.50%,No,0.00%,0.4050
+S14000051,Orkney and Shetland,40.30%,No,0.00%,0.4030
+S14000039,"Inverness, Nairn, Badenoch and Strathspey",40.10%,No,0.00%,0.4010
+S14000054,Perth and North Perthshire,39.90%,No,0.00%,0.3990
+S14000003,Airdrie and Shotts,39.80%,No,0.00%,0.3980
+E14000749,Hitchin and Harpenden,39.30%,Yes,39.80%,0.3980
+E14001041,Winchester,39.60%,No,0.00%,0.3960
+N06000010,Mid Ulster,39.60%,Yes,39.60%,0.3960
+S14000050,Ochil and South Perthshire,39.50%,No,0.00%,0.3950
+S14000040,Kilmarnock and Loudoun,39.50%,No,0.00%,0.3950
+S14000005,Argyll and Bute,39.40%,Yes,39.40%,0.3940
+S14000017,Dunfermline and West Fife,39.40%,No,0.00%,0.3940
+S14000058,West Aberdeenshire and Kincardine,39.20%,No,0.00%,0.3920
+W07000051,Cardiff North,39.10%,No,0.00%,0.3910
+E14001061,York Central,38.80%,No,0.00%,0.3880
+S14000011,"Coatbridge, Chryston and Bellshill",38.80%,No,0.00%,0.3880
+E14000532,Altrincham and Sale West,38.60%,No,0.00%,0.3860
+E14000934,South Cambridgeshire,38.50%,No,0.00%,0.3850
+S14000015,Dundee East,38.40%,No,0.00%,0.3840
+E14000889,Reading East,38.30%,No,0.00%,0.3830
+E14000808,"Manchester, Gorton",38.20%,No,0.00%,0.3820
+E14000874,Oxford West and Abingdon,38.00%,No,0.00%,0.3800
+S14000059,West Dunbartonshire,38.00%,Yes,38.00%,0.3800
+S14000045,Midlothian,37.90%,Yes,37.90%,0.3790
+E14000692,"Enfield, Southgate",37.60%,Yes,37.90%,0.3790
+E14000960,St Albans,37.80%,No,0.00%,0.3780
+S14000047,Motherwell and Wishaw,37.70%,No,0.00%,0.3770
+S14000056,Rutherglen and Hamilton West,37.60%,No,0.00%,0.3760
+E14000779,Leeds North East,37.40%,No,0.00%,0.3740
+N06000011,Newry and Armagh,37.10%,Yes,37.10%,0.3710
+S14000012,"Cumbernauld, Kilsyth and Kirkintilloch East",37.00%,No,0.00%,0.3700
+S14000019,"East Kilbride, Strathaven and Lesmahagow",36.90%,No,0.00%,0.3690
+E14000807,Manchester Central,36.40%,No,0.00%,0.3640
+S14000049,North East Fife,36.30%,No,0.00%,0.3630
+S14000038,Inverclyde,36.20%,Yes,36.20%,0.3620
+S14000042,Lanark and Hamilton East,36.00%,No,0.00%,0.3600
+W07000057,Arfon,35.80%,No,0.00%,0.3580
+E14000718,Greenwich and Woolwich,34.70%,Yes,35.70%,0.3570
+E14000564,"Birmingham, Ladywood",39.80%,Yes,35.60%,0.3560
+S14000052,Paisley and Renfrewshire North,35.50%,No,0.00%,0.3550
+E14000780,Leeds North West,35.40%,No,0.00%,0.3540
+S14000020,East Lothian,35.40%,Yes,35.40%,0.3540
+E14000787,Lewisham East,35.40%,No,0.00%,0.3540
+E14000795,"Liverpool, Wavertree",35.30%,No,0.00%,0.3530
+S14000053,Paisley and Renfrewshire South,34.80%,No,0.00%,0.3480
+E14000790,Leyton and Wanstead,34.80%,No,0.00%,0.3480
+E14000788,Lewisham West and Penge,34.60%,No,0.00%,0.3460
+E14000882,Poplar and Limehouse,34.20%,No,0.00%,0.3420
+E14000922,"Sheffield, Hallam",34.00%,No,0.00%,0.3400
+E14001036,Westminster North,33.70%,No,0.00%,0.3370
+E14000562,"Birmingham, Hall Green",42.20%,Yes,33.60%,0.3360
+E14001013,Walthamstow,36.00%,Yes,33.50%,0.3350
+E14001005,Twickenham,33.30%,No,0.00%,0.3330
+N06000018,West Tyrone,33.20%,Yes,33.20%,0.3320
+E14000755,Hove,32.90%,No,0.00%,0.3290
+N06000015,South Down,32.80%,Yes,32.80%,0.3280
+E14000873,Oxford East,32.50%,No,0.00%,0.3250
+S14000057,Stirling,32.30%,Yes,32.30%,0.3230
+S14000002,Aberdeen South,32.10%,No,0.00%,0.3210
+W07000050,Cardiff Central,32.00%,No,0.00%,0.3200
+E14000919,Sheffield Central,31.90%,No,0.00%,0.3190
+E14000547,Bath,31.70%,No,0.00%,0.3170
+S14000033,Glasgow North West,30.00%,Yes,31.50%,0.3150
+E14000615,Camberwell and Peckham,31.50%,No,0.00%,0.3150
+E14000726,Hammersmith,31.30%,No,0.00%,0.3130
+E14000768,Kensington,31.20%,No,0.00%,0.3120
+E14000703,Finchley and Golders Green,31.10%,No,0.00%,0.3110
+E14000555,Bethnal Green and Bow,30.90%,No,0.00%,0.3090
+N06000003,Belfast South,30.50%,Yes,30.50%,0.3050
+E14001040,Wimbledon,27.30%,Yes,29.40%,0.2940
+E14000674,Ealing Central and Acton,29.10%,Yes,29.20%,0.2920
+E14000629,Chelsea and Fulham,29.10%,No,0.00%,0.2910
+S14000026,Edinburgh West,31.40%,Yes,28.80%,0.2880
+S14000029,Glasgow Central,26.40%,Yes,28.80%,0.2880
+E14000896,Richmond Park,28.70%,No,0.00%,0.2870
+E14000764,Islington South and Finsbury,26.20%,Yes,28.30%,0.2830
+S14000034,Glasgow South,26.80%,Yes,28.20%,0.2820
+E14000639,Cities of London and Westminster,28.10%,No,0.00%,0.2810
+S14000025,Edinburgh South West,26.40%,Yes,27.90%,0.2790
+E14000887,Putney,27.80%,No,0.00%,0.2780
+S14000022,Edinburgh East,30.30%,Yes,27.60%,0.2760
+E14000793,"Liverpool, Riverside",27.30%,No,0.00%,0.2730
+S14000018,East Dunbartonshire,26.90%,No,0.00%,0.2690
+E14000750,Holborn and St Pancras,27.60%,Yes,26.70%,0.2670
+E14000617,Cambridge,26.30%,Yes,26.20%,0.2620
+E14000553,Bermondsey and Old Southwark,26.10%,No,0.00%,0.2610
+N06000004,Belfast West,25.90%,Yes,25.90%,0.2590
+E14000598,"Brighton, Pavilion",25.90%,No,0.00%,0.2590
+S14000021,East Renfrewshire,25.70%,Yes,25.70%,0.2570
+E14000998,Tooting,25.60%,No,0.00%,0.2560
+E14000752,Hornsey and Wood Green,18.20%,Yes,25.00%,0.2500
+E14000809,"Manchester, Withington",24.90%,No,0.00%,0.2490
+E14000789,"Lewisham, Deptford",24.40%,No,0.00%,0.2440
+E14001002,Tottenham,33.30%,Yes,23.80%,0.2380
+E14000727,Hampstead and Kilburn,23.70%,No,0.00%,0.2370
+E14000673,Dulwich and West Norwood,22.90%,No,0.00%,0.2290
+E14000721,Hackney South and Shoreditch,22.80%,No,0.00%,0.2280
+E14001008,Vauxhall,18.50%,Yes,22.40%,0.2240
+S14000024,Edinburgh South,24.80%,Yes,22.20%,0.2220
+E14000549,Battersea,22.00%,No,0.00%,0.2200
+S14000023,Edinburgh North and Leith,17.00%,Yes,21.80%,0.2180
+N06000008,Foyle,21.70%,Yes,21.70%,0.2170
+S14000031,Glasgow North,25.90%,Yes,21.60%,0.2160
+E14000763,Islington North,23.40%,Yes,21.60%,0.2160
+E14000602,Bristol West,19.10%,Yes,20.70%,0.2070
+E14000978,Streatham,22.20%,Yes,20.50%,0.2050
+E14000720,Hackney North and Stoke Newington,20.50%,No,0.00%,0.2050
